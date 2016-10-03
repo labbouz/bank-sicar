@@ -1,0 +1,67 @@
+
+//
+// Close icons
+// --------------------------------------------------
+
+@import "variables.less";
+@import "mixins.less";
+
+/* For Header */
+.barr-top {
+  height: 4px;
+  background-color: #6e6e6e;
+  border-bottom: 1px solid #fff;
+}
+
+header {
+
+  padding-top: @line-height-computed;
+  padding-bottom: @line-height-computed;
+
+  .logo {
+    .logo-image {
+      span, small {
+        display: none;
+      }
+    }
+  }
+
+  ul.nav {
+    display: inline-block;
+    float: right;
+
+    font-family: Arial, sans-serif;
+    color: #313131;
+    font-size: 11px;
+
+    li {
+      display: table-cell;
+
+      span {
+        padding-right: 8px;
+        padding-left: 8px;
+      }
+
+      a {
+        padding: 0;
+        color: #313131;
+
+        &:hover,
+        &:focus {
+          text-decoration: underline;
+        }
+
+      }
+    }
+  }
+
+}
+
+// Commun
+/* Commaun*/
+.nopadding {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+

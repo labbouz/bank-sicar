@@ -26,9 +26,9 @@
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-@body-bg:               #fff;
+@body-bg:               #ebebeb;
 //** Global text color on `<body>`.
-@text-color:            @gray-dark;
+@text-color:            #313131;
 
 //** Global textual link color.
 @link-color:            @brand-primary;
@@ -37,12 +37,24 @@
 //** Link hover decoration.
 @link-hover-decoration: underline;
 
+//
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-weight: 200;
+  font-style: normal;
+  font-stretch: normal;
+  src: url('../fonts/SourceSansPro-ExtraLight.eot') format('embedded-opentype'),
+  url('../fonts/SourceSansPro-ExtraLight.ttf.woff2') format('woff2'),
+  url('../fonts/SourceSansPro-ExtraLight.otf.woff') format('woff'),
+  url('../fonts/SourceSansPro-ExtraLight.otf') format('opentype'),
+  url('../fonts/SourceSansPro-ExtraLight.ttf') format('truetype');
+}
+/*font-family: "Source Sans Pro";*/
 
 //== Typography
 //
 //## Font, line-height, and color for body text, headings, and more.
-
-@font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif;
+@font-family-sans-serif:  'PT Sans', sans-serif;
 @font-family-serif:       Georgia, "Times New Roman", Times, serif;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 @font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace;
@@ -391,7 +403,7 @@
 //=== Inverted navbar
 // Reset inverted navbar basics
 @navbar-inverse-color:                      lighten(@gray-light, 15%);
-@navbar-inverse-bg:                         #222;
+@navbar-inverse-bg:                         #c30d22;
 @navbar-inverse-border:                     darken(@navbar-inverse-bg, 10%);
 
 // Inverted navbar links
