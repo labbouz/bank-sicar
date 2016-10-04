@@ -48,13 +48,144 @@ header {
 
         &:hover,
         &:focus {
-          text-decoration: underline;
+          color: #b50919;
         }
 
       }
     }
   }
 
+  ul.social-network {
+    margin: 8px 0 0 0;
+    padding-left: 0;
+    list-style: none;
+    display: inline-block;
+    float: right;
+    font-size: 18px;
+
+    li {
+      display: block;
+      float: left;
+      margin-left: 15px;
+
+      a {
+        color: #000;
+
+        &:hover,
+        &:focus {
+          color: #b50919;
+        }
+      }
+    }
+
+  }
+
+}
+
+/* For Main menu */
+.main-menu {
+
+  font-family: "Source Sans Pro","Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+  font-weight: 200;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.56);
+
+  .navbar-nav {
+    width: 100%;
+    display: table;
+    table-layout: auto;
+    float:none;
+    border-radius: @navbar-border-radius;
+
+    > li {
+      font-size: 16px;
+      float: none;
+      display: table-cell;
+      text-align: center;
+
+      a {
+        span.barr-rigt {
+            position: absolute;
+            background-color: #dc717d;
+            width: 1px;
+            height: 15px;
+            top:11px;
+            right: 0;
+        }
+
+        span.barr-bottom {
+          position: absolute;
+          background-color: #b50919;
+          width: 100%;
+          height: 5px;
+          bottom: 0;
+          left: 0;
+        }
+
+      }
+
+      &:first-child {
+        a {
+          -webkit-border-top-left-radius: @navbar-border-radius;
+          -webkit-border-bottom-left-radius: @navbar-border-radius;
+          -moz-border-radius-topleft: @navbar-border-radius;
+          -moz-border-radius-bottomleft: @navbar-border-radius;
+          border-top-left-radius: @navbar-border-radius;
+          border-bottom-left-radius: @navbar-border-radius;
+
+          &:hover,
+          &:focus {
+            -webkit-border-top-left-radius: @navbar-border-radius;
+            -webkit-border-bottom-left-radius: @navbar-border-radius;
+            -moz-border-radius-topleft: @navbar-border-radius;
+            -moz-border-radius-bottomleft: @navbar-border-radius;
+            border-top-left-radius: @navbar-border-radius;
+            border-bottom-left-radius: @navbar-border-radius;
+          }
+
+          span.barr-bottom {
+            -webkit-border-bottom-left-radius: @navbar-border-radius;
+            -moz-border-radius-bottomleft: @navbar-border-radius;
+            border-bottom-left-radius: @navbar-border-radius;
+          }
+        }
+
+      }
+
+
+      &:last-child {
+        a {
+          -webkit-border-top-right-radius: @navbar-border-radius;
+          -webkit-border-bottom-right-radius: @navbar-border-radius;
+          -moz-border-radius-topright: @navbar-border-radius;
+          -moz-border-radius-bottomright: @navbar-border-radius;
+          border-top-right-radius: @navbar-border-radius;
+          border-bottom-right-radius: @navbar-border-radius;
+
+          &:hover,
+          &:focus {
+            webkit-border-top-right-radius: @navbar-border-radius;
+            -webkit-border-bottom-right-radius: @navbar-border-radius;
+            -moz-border-radius-topright: @navbar-border-radius;
+            -moz-border-radius-bottomright: @navbar-border-radius;
+            border-top-right-radius: @navbar-border-radius;
+            border-bottom-right-radius: @navbar-border-radius;
+          }
+
+          span.barr-bottom {
+            -webkit-border-bottom-right-radius: @navbar-border-radius;
+            -moz-border-radius-bottomright: @navbar-border-radius;
+            border-bottom-right-radius: @navbar-border-radius;
+          }
+
+          span.barr-rigt {
+            display: none;
+          }
+        }
+      }
+    }
+
+  }
 }
 
 // Commun

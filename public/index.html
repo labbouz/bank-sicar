@@ -7,10 +7,17 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Attijari SICAR</title>
 
-    <!-- Bootstrap -->
+
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/custom.min.css" rel="stylesheet">
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <link href="css/font-awesome.min.css" rel="stylesheet" >
+
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -20,213 +27,212 @@
     <![endif]-->
 </head>
 <body>
+    <div class="container-fluid barr-top"></div>
 
-<!-- Header -->
+    <!-- Header -->
+    <header class="container">
+        <div class="row">
 
-<div class="container-fluid barr-top"></div>
+            <!-- LOGO -->
+            <div class="col-xs-12 col-sm-2 logo">
+                <div class="logo-image">
+                    <a href="index.html" title="Attijari SICAR">
+                        <img class="logo-img" src="images/_logo.png" alt="Attijari SICAR">
+                        <span>Attijari SICAR</span>
+                    </a>
+                    <small class="site-slogan"></small>
+                </div>
+            </div>
+            <!-- //LOGO -->
 
-<header class="container">
-    <div class="row">
-
-        <!-- LOGO -->
-        <div class="col-xs-12 col-sm-2 logo nopadding">
-            <div class="logo-image">
-                <a href="index.html" title="Attijari SICAR">
-                    <img class="logo-img" src="images/logo.png" alt="Attijari SICAR">
-                    <span>Attijari SICAR</span>
-                </a>
-                <small class="site-slogan"></small>
+            <div class="col-xs-12 col-sm-10">
+                <ul class="nav nav-pills nav-stacked">
+                    <li>Liens utiles</li>
+                    <li><span>.</span></li>
+                    <li><a href="javascript:void(0)">FAQ</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="javascript:void(0)">Actualités</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="javascript:void(0)">Plan du site</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="javascript:void(0)">Contact</a></li>
+                </ul>
+                <div class="clearfix"></div>
+                <ul class="social-network">
+                    <li><a href="javascript:void(0)"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                    <li><a href="javascript:void(0)"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                    <li><a href="javascript:void(0)"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                    <li><a href="javascript:void(0)"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                </ul>
             </div>
         </div>
-        <!-- //LOGO -->
+    </header>
 
-        <div class="col-xs-12 col-sm-10 nopadding">
-            <ul class="nav nav-pills nav-stacked">
-                <li>Liens utiles</li>
-                <li><span>.</span></li>
-                <li><a href="javascript:void(0)">FAQ</a></li>
-                <li><span>.</span></li>
-                <li><a href="javascript:void(0)">Actualités</a></li>
-                <li><span>.</span></li>
-                <li><a href="javascript:void(0)">Plan du site</a></li>
-                <li><span>.</span></li>
-                <li><a href="javascript:void(0)">Contact</a></li>
-            </ul>
-        </div>
-
-    </div>
-</header>
-
-
-<!-- Navigation -->
-<nav class="container navbar navbar-inverse" role="navigation">
+    <!-- Navigation -->
     <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="#">Start Bootstrap</a>
-        </div>
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <nav class="main-menu navbar navbar-inverse">
+            <!-- Collect the nav links, forms, and other content for toggling -->
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="#">About</a>
+                    <a href="#">Accueil<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+                </li>
+                <li class="active">
+                    <a href="#">Présentation<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
                 </li>
                 <li>
-                    <a href="#">Services</a>
+                    <a href="#">Stratégie d’investissement<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="#">Dossier de financement<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+                </li>
+                <li>
+                    <a href="#">Actualités<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+                </li>
+                <li>
+                    <a href="#">Contact<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
                 </li>
             </ul>
-        </div>
-        <!-- /.navbar-collapse -->
+            <!-- /.navbar-collapse -->
+        </nav>
     </div>
-    <!-- /.container -->
-</nav>
 
-<!-- Page Content -->
-<div class="container">
+
+<div id="containet-content" class="container">
+    <!-- Page Content -->
 
     <div class="row">
 
-        <!-- Blog Sidebar Widgets Column -->
-        <div class="col-md-4">
+            <!-- Blog Sidebar Widgets Column -->
+            <div class="col-md-4">
 
-            <!-- Blog Search Well -->
-            <div class="well">
-                <h4>Blog Search</h4>
-                <div class="input-group">
-                    <input type="text" class="form-control">
-                    <span class="input-group-btn">
+                <!-- Blog Search Well -->
+                <div class="well">
+                    <h4>Blog Search</h4>
+                    <div class="input-group">
+                        <input type="text" class="form-control">
+                        <span class="input-group-btn">
                             <button class="btn btn-default" type="button">
                                 <span class="glyphicon glyphicon-search"></span>
                         </button>
                         </span>
+                    </div>
+                    <!-- /.input-group -->
                 </div>
-                <!-- /.input-group -->
+
+                <!-- Blog Categories Well -->
+                <div class="well">
+                    <h4>Blog Categories</h4>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <ul class="list-unstyled">
+                                <li><a href="#">Category Name</a>
+                                </li>
+                                <li><a href="#">Category Name</a>
+                                </li>
+                                <li><a href="#">Category Name</a>
+                                </li>
+                                <li><a href="#">Category Name</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- /.col-lg-6 -->
+                        <div class="col-lg-6">
+                            <ul class="list-unstyled">
+                                <li><a href="#">Category Name</a>
+                                </li>
+                                <li><a href="#">Category Name</a>
+                                </li>
+                                <li><a href="#">Category Name</a>
+                                </li>
+                                <li><a href="#">Category Name</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <!-- /.col-lg-6 -->
+                    </div>
+                    <!-- /.row -->
+                </div>
+
+                <!-- Side Widget Well -->
+                <div class="well">
+                    <h4>Side Widget Well</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, perspiciatis adipisci accusamus laudantium odit aliquam repellat tempore quos aspernatur vero.</p>
+                </div>
+
             </div>
 
-            <!-- Blog Categories Well -->
-            <div class="well">
-                <h4>Blog Categories</h4>
-                <div class="row">
-                    <div class="col-lg-6">
-                        <ul class="list-unstyled">
-                            <li><a href="#">Category Name</a>
-                            </li>
-                            <li><a href="#">Category Name</a>
-                            </li>
-                            <li><a href="#">Category Name</a>
-                            </li>
-                            <li><a href="#">Category Name</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- /.col-lg-6 -->
-                    <div class="col-lg-6">
-                        <ul class="list-unstyled">
-                            <li><a href="#">Category Name</a>
-                            </li>
-                            <li><a href="#">Category Name</a>
-                            </li>
-                            <li><a href="#">Category Name</a>
-                            </li>
-                            <li><a href="#">Category Name</a>
-                            </li>
-                        </ul>
-                    </div>
-                    <!-- /.col-lg-6 -->
-                </div>
-                <!-- /.row -->
+            <!-- Blog Entries Column -->
+            <div class="col-md-8">
+
+                <h1 class="page-header">
+                    Page Heading
+                    <small>Secondary Text</small>
+                </h1>
+
+                <!-- First Blog Post -->
+                <h2>
+                    <a href="#">Blog Post Title</a>
+                </h2>
+                <p class="lead">
+                    by <a href="index.php">Start Bootstrap</a>
+                </p>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:00 PM</p>
+                <hr>
+                <img class="img-responsive" src="http://placehold.it/900x300" alt="">
+                <hr>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, veritatis, tempora, necessitatibus inventore nisi quam quia repellat ut tempore laborum possimus eum dicta id animi corrupti debitis ipsum officiis rerum.</p>
+                <a class="btn btn-primary" href="#">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+
+                <hr>
+
+                <!-- Second Blog Post -->
+                <h2>
+                    <a href="#">Blog Post Title</a>
+                </h2>
+                <p class="lead">
+                    by <a href="index.php">Start Bootstrap</a>
+                </p>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:45 PM</p>
+                <hr>
+                <img class="img-responsive" src="http://placehold.it/900x300" alt="">
+                <hr>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, quasi, fugiat, asperiores harum voluptatum tenetur a possimus nesciunt quod accusamus saepe tempora ipsam distinctio minima dolorum perferendis labore impedit voluptates!</p>
+                <a class="btn btn-primary" href="#">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+
+                <hr>
+
+                <!-- Third Blog Post -->
+                <h2>
+                    <a href="#">Blog Post Title</a>
+                </h2>
+                <p class="lead">
+                    by <a href="index.php">Start Bootstrap</a>
+                </p>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:45 PM</p>
+                <hr>
+                <img class="img-responsive" src="http://placehold.it/900x300" alt="">
+                <hr>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, voluptates, voluptas dolore ipsam cumque quam veniam accusantium laudantium adipisci architecto itaque dicta aperiam maiores provident id incidunt autem. Magni, ratione.</p>
+                <a class="btn btn-primary" href="#">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
+
+                <hr>
+
+                <!-- Pager -->
+                <ul class="pager">
+                    <li class="previous">
+                        <a href="#">&larr; Older</a>
+                    </li>
+                    <li class="next">
+                        <a href="#">Newer &rarr;</a>
+                    </li>
+                </ul>
+
             </div>
 
-            <!-- Side Widget Well -->
-            <div class="well">
-                <h4>Side Widget Well</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, perspiciatis adipisci accusamus laudantium odit aliquam repellat tempore quos aspernatur vero.</p>
-            </div>
 
         </div>
-
-        <!-- Blog Entries Column -->
-        <div class="col-md-8">
-
-            <h1 class="page-header">
-                Page Heading
-                <small>Secondary Text</small>
-            </h1>
-
-            <!-- First Blog Post -->
-            <h2>
-                <a href="#">Blog Post Title</a>
-            </h2>
-            <p class="lead">
-                by <a href="index.php">Start Bootstrap</a>
-            </p>
-            <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:00 PM</p>
-            <hr>
-            <img class="img-responsive" src="http://placehold.it/900x300" alt="">
-            <hr>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, veritatis, tempora, necessitatibus inventore nisi quam quia repellat ut tempore laborum possimus eum dicta id animi corrupti debitis ipsum officiis rerum.</p>
-            <a class="btn btn-primary" href="#">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
-
-            <hr>
-
-            <!-- Second Blog Post -->
-            <h2>
-                <a href="#">Blog Post Title</a>
-            </h2>
-            <p class="lead">
-                by <a href="index.php">Start Bootstrap</a>
-            </p>
-            <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:45 PM</p>
-            <hr>
-            <img class="img-responsive" src="http://placehold.it/900x300" alt="">
-            <hr>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam, quasi, fugiat, asperiores harum voluptatum tenetur a possimus nesciunt quod accusamus saepe tempora ipsam distinctio minima dolorum perferendis labore impedit voluptates!</p>
-            <a class="btn btn-primary" href="#">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
-
-            <hr>
-
-            <!-- Third Blog Post -->
-            <h2>
-                <a href="#">Blog Post Title</a>
-            </h2>
-            <p class="lead">
-                by <a href="index.php">Start Bootstrap</a>
-            </p>
-            <p><span class="glyphicon glyphicon-time"></span> Posted on August 28, 2013 at 10:45 PM</p>
-            <hr>
-            <img class="img-responsive" src="http://placehold.it/900x300" alt="">
-            <hr>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate, voluptates, voluptas dolore ipsam cumque quam veniam accusantium laudantium adipisci architecto itaque dicta aperiam maiores provident id incidunt autem. Magni, ratione.</p>
-            <a class="btn btn-primary" href="#">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
-
-            <hr>
-
-            <!-- Pager -->
-            <ul class="pager">
-                <li class="previous">
-                    <a href="#">&larr; Older</a>
-                </li>
-                <li class="next">
-                    <a href="#">Newer &rarr;</a>
-                </li>
-            </ul>
-
-        </div>
-
-
-    </div>
     <!-- /.row -->
 
-    <hr>
 
     <!-- Footer -->
     <footer>
@@ -241,6 +247,10 @@
 
 </div>
 <!-- /.container -->
+
+
+
+
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
