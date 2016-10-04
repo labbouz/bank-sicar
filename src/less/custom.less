@@ -122,7 +122,18 @@ header {
           left: 0;
         }
 
+        &:hover,
+        &:focus {
+
+          span.barr-bottom {
+            background-color: #c63846;
+          }
+
+        }
+
       }
+
+
 
       &:first-child {
         a {
@@ -151,7 +162,6 @@ header {
         }
 
       }
-
 
       &:last-child {
         a {
@@ -185,7 +195,197 @@ header {
       }
     }
 
+    > li.active {
+      a {
+        span.barr-bottom {
+          background-color: #c63846;
+        }
+      }
+    }
+
   }
+}
+
+/* For Main Container */
+.mainbody {
+  padding-bottom: 1px;
+
+
+
+  .container_main {
+
+    background: #fff;
+    min-height: 100px;
+  }
+}
+
+
+
+/* Footer */
+footer {
+  background: #fff;
+
+  .container_newsletter {
+    background-color: #a70901;
+    min-height:48px ;
+
+    .register_newsletter {
+      background-color: #c91f05;
+      padding-top: 6px;
+      padding-bottom: 7px;
+
+      border-right: 1px solid #d63b0c;
+
+      label{
+        color:  #fff;
+        font-weight: 400;
+        text-transform: uppercase;
+        font-size: 12px;
+        margin-bottom: 0;
+        text-shadow: 1px 1px 2px rgba(179, 17, 2, 1);
+
+        strong {
+          color: #ffa405;
+          font-weight: 400;
+        }
+      }
+
+      .form-group {
+
+        -webkit-box-shadow: inset 0px 0px 20px 2px rgba(159,23,4,1);
+        -moz-box-shadow: inset 0px 0px 20px 2px rgba(159,23,4,1);
+        box-shadow: inset 0px 0px 20px 2px rgba(159,23,4,1);
+
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+
+        border-bottom: 1px solid #d1310a;
+
+        .form-control {
+          background: transparent;
+          border: none ;
+          color: #ffffff;
+
+          // Firefox
+          &::-moz-placeholder {
+            color: #ffffff;
+            opacity: 1; // Override Firefox's unusual default opacity; see https://github.com/twbs/bootstrap/pull/11526
+          }
+          &:-ms-input-placeholder { color: #ffffff; } // Internet Explorer 10+
+          &::-webkit-input-placeholder  { color: #ffffff; } // Safari and Chrome
+
+          &:focus {
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+            box-shadow: none;
+          }
+
+        }
+
+
+        .btn-newsletter {
+          color: #c91f05;
+          border: none;
+
+          text-transform: uppercase;
+
+          -webkit-box-shadow: inset 0px 0px 20px 2px rgba(233,233,233,1);
+          -moz-box-shadow: inset 0px 0px 20px 2px rgba(233,233,233,1);
+          box-shadow: inset 0px 0px 20px 2px rgba(233,233,233,1);
+
+          &:hover,
+          &:focus {
+            -webkit-box-shadow: none;
+            -moz-box-shadow: none;
+            box-shadow: none;
+
+            color: #000;
+
+            outline: 0px;
+            outline-offset: 0px;
+            border: none;
+          }
+        }
+
+      }
+    }
+
+    .espace {
+      border-left: 5px solid #a10801;
+      height:48px;
+    }
+
+  }
+
+  .barre_newslettre {
+    margin-top: 1px;
+
+    .barre_right {
+      height: 25px;
+      background: url("../images/barre_newslettre_r.png") right top no-repeat;
+    }
+    .barre_left {
+      height: 25px;
+      background: url("../images/barre_newslettre_l.png") left top no-repeat;
+    }
+  }
+
+  small{
+    font-family:  Arial, SansSerif;
+    font-weight: normal;
+    font-size: 100%;
+    color: @brand-primary;
+  }
+
+  ul.nav {
+    display: inline-block;
+    float: right;
+
+    font-family: Arial, sans-serif;
+    color: #313131;
+    font-size: 11px;
+
+    li {
+      display: table-cell;
+
+      span {
+        padding-right: 8px;
+        padding-left: 8px;
+      }
+
+      a {
+        padding: 0;
+        color: #313131;
+
+        &:hover,
+        &:focus {
+          color: #b50919;
+        }
+
+      }
+    }
+  }
+
+  address {
+    font-family: Arial, SansSerif;
+    font-weight: normal;
+    color: #9a9a9a;
+    font-size: 12px;
+
+    strong {
+      font-weight: bold;
+    }
+  }
+
+  .powred_by {
+    font-family: Arial, SansSerif;
+    font-weight: normal;
+    color: #9a9a9a;
+    font-size: 12px;
+  }
+
+
 }
 
 // Commun
@@ -193,6 +393,11 @@ header {
 .nopadding {
   padding: 0 !important;
   margin: 0 !important;
+}
+
+.wrap {
+  width: auto;
+  clear: both;
 }
 
 
