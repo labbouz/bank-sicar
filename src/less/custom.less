@@ -687,6 +687,147 @@ header {
   }
 }
 
+/* Sidebar Content */
+.sidebar-content {
+  border-top: 1px solid #dcdcdc;
+  background-color: #f9f9f9;
+
+  .slick-slider {
+
+    .next-slide {
+      position: absolute;
+      top:30px;
+      right: 30px;
+      margin: 0;
+      padding: 9px 16px;
+      border: none;
+      font-size: 21px;
+      background-color:  #ffab08;
+      color: #ffffff;
+      outline: none;
+      z-index: 9999;
+
+      &:hover {
+        background-color: #f8a608;
+      }
+    }
+
+    .prev-slide {
+      position: absolute;
+      top:30px;
+      right: 77px;
+      margin: 0;
+      padding: 9px 16px;
+      border: none;
+      font-size: 21px;
+      background-color:  #ffab08;
+      color: #ffffff;
+      outline: none;
+      z-index: 9999;
+
+      &:hover {
+        background-color: #f8a608;
+      }
+    }
+
+  }
+
+  .slide-content {
+    outline: none;
+
+
+    .block_image {
+      position: relative;
+      height: 250px;
+
+      .triangle {
+        position: absolute;
+        top: 37px;
+        right: 0;
+        width: 20px;
+        height: 40px;
+        background: url("../images/triangle.png") top right no-repeat;
+      }
+
+      h2 {
+        position: absolute;
+        width: 100%;
+        height: auto;
+        bottom:18px;
+        left: 0;
+
+        font-family: "Source Sans Pro", Arial, sans-serif;
+        font-weight: 200;
+        font-size: 22px;
+        color: #ffffff;
+        margin: 0;
+        padding-left: 16px;
+
+        small {
+          font-size: 15px;
+          color:  #ffab08;
+          font-family: "Source Sans Pro", Arial, sans-serif;
+          font-weight: 300;
+        }
+
+
+      }
+    }
+
+    .block_content {
+
+      h1 {
+        color: #000000;
+        font-weight: 700;
+        font-size: 30px;
+        text-transform: uppercase;
+        margin-top: 16px;
+        margin-bottom: 26px;
+
+        small {
+          color:  #525252;
+          font-weight: 400;
+          font-size: 20px;
+          text-transform: uppercase;
+
+        }
+      }
+
+      h3 {
+        font-family: "Source Sans Pro", Arial, sans-serif;
+        color: #525252;
+        font-weight: 300;
+        font-size: 26px;
+        margin-top: 0px;
+        margin-bottom: 10px;
+      }
+
+      p {
+        font-family: Arial, sans-serif;
+        font-weight: normal;
+        color: #525252;
+        font-size: 12px;
+      }
+
+      .box_compteur {
+
+          display: table;
+          float: right;
+          background-color: #ffab08;
+          margin: 0;
+          padding: 0 12px;
+          font-size: 20px;
+          font-weight: 400;
+          line-height: 50px;
+          color: #ffffff;
+      }
+
+    }
+
+  }
+
+
+}
 
 /* Footer */
 footer {

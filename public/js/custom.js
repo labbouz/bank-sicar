@@ -39,6 +39,19 @@ $(document).ready(function(){
         cssEase: 'linear'
     });
 
+    // For Module Sidebar Content
+
+    $('.slides-contents').slick({
+        autoplay: false,
+        arrows: true,
+        infinite: true,
+        speed: 1000,
+        fade: false,
+        cssEase: 'ease-in-out',
+        nextArrow: '<button class="next-slide"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>',
+        prevArrow: '<button class="prev-slide"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>'
+    });
+
 
 
 });
