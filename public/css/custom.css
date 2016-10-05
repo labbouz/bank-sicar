@@ -158,7 +158,7 @@ header ul.social-network li a:focus {
 }
 .mainbody .container_main {
   background: #fff;
-  min-height: 100px;
+  min-height: 250px;
 }
 /* Footer */
 footer {
@@ -275,6 +275,7 @@ footer ul.nav li a {
 footer ul.nav li a:hover,
 footer ul.nav li a:focus {
   color: #b50919;
+  background: none;
 }
 footer address {
   font-family: Arial, SansSerif;
@@ -299,4 +300,24 @@ footer .powred_by {
 .wrap {
   width: auto;
   clear: both;
+}
+.container-ombre {
+  position: relative;
+}
+.container-ombre .ombre_r {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 15px;
+  height: 100%;
+  background: url("../images/ombre_r.png") left top repeat;
+}
+.container-ombre .ombre_l {
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: #E0F2BE;
+  width: 15px;
+  height: 100%;
+  background: url("../images/ombre_l.png") right top repeat;
 }

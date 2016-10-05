@@ -213,9 +213,8 @@ header {
 
 
   .container_main {
-
     background: #fff;
-    min-height: 100px;
+    min-height: 250px;
   }
 }
 
@@ -361,6 +360,7 @@ footer {
         &:hover,
         &:focus {
           color: #b50919;
+          background: none;
         }
 
       }
@@ -398,6 +398,31 @@ footer {
 .wrap {
   width: auto;
   clear: both;
+}
+
+.container-ombre {
+  position: relative;
+
+  .ombre_r {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 15px;
+    height: 100%;
+    background: url("../images/ombre_r.png") left top repeat;
+
+   }
+
+  .ombre_l {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background:  #E0F2BE;
+    width: 15px;
+    height: 100%;
+    background: url("../images/ombre_l.png") right top repeat;
+  }
+
 }
 
 
