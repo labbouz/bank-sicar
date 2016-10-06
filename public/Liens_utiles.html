@@ -8,15 +8,35 @@
     <title>Attijari SICAR</title>
 
 
+    <!-- Commun PAGE -->
+
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+
+    <!-- Font Source Sans Pro -->
+    <link href="css/font-source-sans-pro.css" rel="stylesheet" >
+
+    <!-- Font Awesome -->
+    <link href="css/font-awesome.min.css" rel="stylesheet" >
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
 
-    <!-- Font Awesome -->
-    <link href="css/font-awesome.min.css" rel="stylesheet" >
+
+
+    <!-- ./Commun PAGE -->
+
+    <!-- Specific PAGE -->
+
+    <!-- Slick -->
+    <link href="js/slick/slick.css" rel="stylesheet" />
+    <!-- Custom styling for Slick -->
+    <link href="js/slick/slick-theme.css" rel="stylesheet" />
+
+    <!-- ./Specific PAGE -->
+
+
 
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -27,207 +47,517 @@
     <![endif]-->
 </head>
 <body>
-    <div class="container-fluid barr-top"></div>
+<div class="container-fluid barr-top"></div>
 
-    <!-- Header -->
-    <header class="container">
+<!-- Header -->
+<header class="container">
+    <div class="row">
+
+        <!-- LOGO -->
+        <div class="col-xs-12 col-sm-2 logo">
+            <div class="logo-image">
+                <a href="index.html" title="Attijari SICAR">
+                    <img class="logo-img" src="images/logo.png" alt="Attijari SICAR">
+                    <span>Attijari SICAR</span>
+                </a>
+                <small class="site-slogan"></small>
+            </div>
+        </div>
+        <!-- //LOGO -->
+
+        <div class="col-xs-12 col-sm-10">
+            <ul class="nav nav-pills nav-stacked">
+                <li class="current"><a href="Liens_utiles.html">Liens utiles</a></li>
+                <li><span>.</span></li>
+                <li><a href="FAQ.html">FAQ</a></li>
+                <li><span>.</span></li>
+                <li><a href="Liste_actualites.html">Actualités</a></li>
+                <li><span>.</span></li>
+                <li><a href="Plan_du_site.html">Plan du site</a></li>
+                <li><span>.</span></li>
+                <li><a href="Contact.html">Contact</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <ul class="social-network">
+                <li><a href="javascript:void(0)"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+<!-- Navigation -->
+<div id="menu-nav" class="container">
+    <nav class="main-menu navbar navbar-inverse">
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <ul class="nav navbar-nav">
+            <li>
+                <a href="index.html">Accueil<span class="barr-rigt"></span><span class="barr-bottom"></span></a></li>
+            </li>
+            <li class="active dropdown">
+                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Présentation<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+                <ul class="dropdown-menu">
+                    <li class="active"><a href="Qui_sommes_nous.html">Qui sommes nous</a></li>
+                    <li><a href="Nos_metiers.html">Nos métiers</a></li>
+                    <li><a href="Nos_valeurs.html">Nos valeurs</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Stratégie d’investissement<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="Notre_politique_d_investissement.html">Notre politique d’investissement</a></li>
+                    <li><a href="Nos_champs_d_intervention.html">Nos champs d’intervention</a></li>
+                    <li><a href="Nos_modalites_d_intervention.html">Nos modalités d’intervention</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Dossier de financement<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="Processus_de_decision.html">Processus de décision</a></li>
+                    <li><a href="Constituez_votre_dossier.html">Constituez votre dossier</a></li>
+                    <li><a href="Liens_utiles.html">Liens utiles</a></li>
+                </ul>
+
+            </li>
+            <li>
+                <a href="Liste_actualites.html">Actualités<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+            </li>
+            <li>
+                <a href="Contact.html">Contact<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+            </li>
+        </ul>
+        <!-- /.navbar-collapse -->
+    </nav>
+</div>
+
+<!-- Slide principales -->
+<div class="wrap main_slides">
+    <div class="image"><img src="images/slides/1.jpg" class="img-responsive"></div>
+    <div class="image"><img src="images/slides/2.jpg" class="img-responsive"></div>
+    <div class="image"><img src="images/slides/3.jpg" class="img-responsive"></div>
+    <div class="image"><img src="images/slides/4.jpg" class="img-responsive"></div>
+</div>
+
+<!-- Container Search -->
+<div id="search-container" class="container search_container">
+    <div class="ombre_r"></div>
+    <div class="ombre_l"></div>
+    <div class="col-md-5 espace"><div class="ombre"></div></div>
+    <div class="col-md-7 search">
+        <div class="ombre_center"></div>
+        <div class="ombre_input_search">
+            <div class="ombre">
+                <form class="navbar-right form-search row">
+                    <div class="form-group  col-md-10 nopadding">
+                        <div class="input-group">
+                            <div class="input-group-addon"><i class="fa fa-search" aria-hidden="true"></i></div>
+                            <input type="text" class="form-control" id="search" placeholder="Rechercher dans le site web">
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-default  col-md-2">Rechercher</button>
+                </form>
+
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+<!-- Body Content -->
+<div id="main-container" class="container mainbody container-ombre">
+    <div class="ombre_r"></div>
+    <div class="ombre_l"></div>
+    <div class="container_main col-md-12 col-sm12">
+
+        <!-- Breadcrumb -->
+        <div class="row">
+            <div class="col-md-12 col-sm-12 container-breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="index.html">Accueil</a></li>
+                    <li class="breadcrumb-item active">Liens utiles</li>
+                </ol>
+            </div>
+        </div>
+
+
         <div class="row">
 
-            <!-- LOGO -->
-            <div class="col-xs-12 col-sm-2 logo">
-                <div class="logo-image">
-                    <a href="index.html" title="Attijari SICAR">
-                        <img class="logo-img" src="images/logo.png" alt="Attijari SICAR">
-                        <span>Attijari SICAR</span>
-                    </a>
-                    <small class="site-slogan"></small>
-                </div>
-            </div>
-            <!-- //LOGO -->
+            <!-- Sidebar Left -->
+            <div class="col-md-4 col-sm-12 sidebar-left">
 
-            <div class="col-xs-12 col-sm-10">
-                <ul class="nav nav-pills nav-stacked">
-                    <li><a href="javascript:void(0)">Liens utiles</a></li>
-                    <li><span>.</span></li>
-                    <li><a href="javascript:void(0)">FAQ</a></li>
-                    <li><span>.</span></li>
-                    <li><a href="javascript:void(0)">Actualités</a></li>
-                    <li><span>.</span></li>
-                    <li><a href="javascript:void(0)">Plan du site</a></li>
-                    <li><span>.</span></li>
-                    <li><a href="javascript:void(0)">Contact</a></li>
-                </ul>
-                <div class="clearfix"></div>
-                <ul class="social-network">
-                    <li><a href="javascript:void(0)"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
-                    <li><a href="javascript:void(0)"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                    <li><a href="javascript:void(0)"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                    <li><a href="javascript:void(0)"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-                </ul>
-            </div>
-        </div>
-    </header>
+                <!-- Module Menu -->
+                <div class="module mod-menu">
+                    <h3>Présentation</h3>
+                    <hr>
+                    <ul class="nav menu">
+                        <li class="current"><a href="javascript:void(0)">Qui sommes nous ?<span></span></a></li>
+                        <li><a href="javascript:void(0)">Nos métiers<span></span></a></li>
+                        <li><a href="javascript:void(0)">Nos valeurs<span></span></a></li>
 
-    <!-- Navigation -->
-    <div id="menu-nav" class="container">
-        <nav class="main-menu navbar navbar-inverse">
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <ul class="nav navbar-nav">
-                <li>
-                    <a href="javascript:void(0)">Accueil<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                </li>
-                <li class="active dropdown">
-                    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Présentation<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="javascript:void(0)">Qui sommes nous</a></li>
-                        <li><a href="javascript:void(0)">Nos métiers</a></li>
-                        <li><a href="javascript:void(0)">Nos valeurs</a></li>
                     </ul>
-                </li>
-                <li>
-                    <a href="javascript:void(0)">Stratégie d’investissement<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                </li>
-                <li>
-                    <a href="javascript:void(0)">Dossier de financement<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                </li>
-                <li>
-                    <a href="javascript:void(0)">Actualités<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                </li>
-                <li>
-                    <a href="javascript:void(0)">Contact<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                </li>
-            </ul>
-            <!-- /.navbar-collapse -->
-        </nav>
-    </div>
+                </div>
 
-    <!-- Page Content -->
-    <div id="search-container" class="container search_container">
-        <div class="ombre_r"></div>
-        <div class="ombre_l"></div>
+                <!-- Module News -->
+                <div class="module mod-news">
+                    <h3>Dernières actualités</h3>
 
-        <div class="col-md-5 espace"><div class="ombre"></div></div>
-        <div class="col-md-7 search">
-            <div class="ombre_center"></div>
-            <div class="ombre_input_search">
-                <div class="ombre">
-                    <form class="navbar-right form-search row">
-                        <div class="form-group  col-md-10 nopadding">
-                            <div class="input-group">
-                                <div class="input-group-addon"><i class="fa fa-search" aria-hidden="true"></i></div>
-                                <input type="text" class="form-control" id="search" placeholder="Rechercher dans le site web">
-                            </div>
+                    <div class="last_news_slides" >
+                        <div class="item">
+                            <div class="date">2015.02.24</div>
+                            <h4 class="title">Lorem ipsum dollaris ametium</h4>
+                            <p>
+                                <img class="img-thumbnail" src="images/thumb_item_141x119.jpg"> Curabitur blandit tellus at nisi feugiat at iaculis felis vulputate. Pellentesque et vestibulum ante. Vestibulum ante ipsum primis in aucibus orci luctus et ultrices posuere cubilia Cur ...
+                            </p>
+                            <div class="clearfix"></div>
+                            <a class="btn btn-primary btn-sm pull-right" href="javascript:void(0)">en savoir plus</a>
+                            <div class="clearfix"></div>
                         </div>
-                        <button type="submit" class="btn btn-default  col-md-2">Rechercher</button>
-                    </form>
+                        <div class="item">
+                            <div class="date">2015.02.24</div>
+                            <h4 class="title">Lorem ipsum dollaris ametium</h4>
+                            <p>
+                                <img class="img-thumbnail" src="images/thumb_item_141x119.jpg"> Curabitur blandit tellus at nisi feugiat at iaculis felis vulputate. Pellentesque et vestibulum ante. Vestibulum ante ipsum primis in aucibus orci luctus et ultrices posuere cubilia Cur ...
+                            </p>
+                            <div class="clearfix"></div>
+                            <a class="btn btn-primary btn-sm pull-right" href="javascript:void(0)">en savoir plus</a>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="item">
+                            <div class="date">2015.02.24</div>
+                            <h4 class="title">Lorem ipsum dollaris ametium</h4>
+                            <p>
+                                <img class="img-thumbnail" src="images/thumb_item_141x119.jpg"> Curabitur blandit tellus at nisi feugiat at iaculis felis vulputate. Pellentesque et vestibulum ante. Vestibulum ante ipsum primis in aucibus orci luctus et ultrices posuere cubilia Cur ...
+                            </p>
+                            <div class="clearfix"></div>
+                            <a class="btn btn-primary btn-sm pull-right" href="javascript:void(0)">en savoir plus</a>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="item">
+                            <div class="date">2015.02.24</div>
+                            <h4 class="title">Lorem ipsum dollaris ametium</h4>
+                            <p>
+                                <img class="img-thumbnail" src="images/thumb_item_141x119.jpg"> Curabitur blandit tellus at nisi feugiat at iaculis felis vulputate. Pellentesque et vestibulum ante. Vestibulum ante ipsum primis in aucibus orci luctus et ultrices posuere cubilia Cur ...
+                            </p>
+                            <div class="clearfix"></div>
+                            <a class="btn btn-primary btn-sm pull-right" href="javascript:void(0)">en savoir plus</a>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Module Infos Flash -->
+                <div class="module mod-info-flash">
+                    <div class="images-infos">
+                        <div class="image-info">
+                            <img src="images/infos-images/1.jpg" class="img-responsive">
+                            <a class="info-flash" href="javascript:void(0)">
+                                <div class="red"><p>Lorem</p><span></span></div>
+                                <div class="white"><p>Lorem ipsum dolor.</p></div>
+                            </a>
+                        </div>
+                        <div class="image-info">
+                            <img src="images/infos-images/2.jpg" class="img-responsive">
+                            <a class="info-flash" href="javascript:void(0)">
+                                <div class="red"><p>Lorem</p><span></span></div>
+                                <div class="white"><p>Lorem ipsum dolor.</p></div>
+                            </a>
+                        </div>
+                        <div class="image-info">
+                            <img src="images/infos-images/3.jpg" class="img-responsive">
+                            <a class="info-flash" href="javascript:void(0)">
+                                <div class="red"><p>Lorem</p><span></span></div>
+                                <div class="white"><p>Lorem ipsum dolor.</p></div>
+                            </a>
+                        </div>
+                    </div>
 
                 </div>
+
             </div>
+            <!-- ./Sidebar Left -->
+
+            <!-- Content Main Body -->
+            <div class="col-md-8 col-sm-12 content">
+                <h1>Attijari Sicar</h1>
+                <h2>Liens utiles</h2>
+
+                <div class="cadre"><span>”</span>Le Lorem Ipsum<span>”</span></div>
+
+                <div class="liens_utiles">
+
+                    <div  class="col-md-12">
+                        <a href="javascript:void(0)">Le Lorem Ipsum est simplement </a>
+                        <p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression Le Lorem Ipsum est simplement du faux texte </p>
+                        <hr class="col-md-8">
+                    </div>
+
+
+                    <div  class="col-md-12">
+                        <a href="javascript:void(0)">Le Lorem Ipsum est simplement </a>
+                        <p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression</p>
+                        <hr  class="col-md-8">
+                    </div>
+
+
+                    <div  class="col-md-12">
+                        <a href="javascript:void(0)">Le Lorem Ipsum est simplement </a>
+                        <p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression</p>
+                        <hr  class="col-md-8">
+                    </div>
+
+
+                    <div  class="col-md-12">
+                        <a href="javascript:void(0)">Le Lorem Ipsum est simplement </a>
+                        <p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression</p>
+                        <hr  class="col-md-8">
+                    </div>
+
+
+                </div>
+
+            </div>
+            <!-- ./Content Main Body -->
 
 
         </div>
+
+        <!--  -->
+        <div class="row">
+            <!-- Sidebar Content -->
+            <div class="col-md-12 col-sm-12 sidebar-content nopadding">
+
+                <div class="slides-contents">
+                    <!-- slide-content -->
+                    <div class="slide-content">
+
+                        <diV class="col-md-3 block_image">
+                            <div class="row">
+                                <img src="images/image_285x250.jpg" >
+                                <h2>Nos champs d’intervention <br> <small>Capital risque</small></h2>
+                                <div class="triangle"></div>
+                            </div>
+
+                        </diV>
+                        <diV class="col-md-9 block_content">
+
+                            <div class="col-md-12">
+                                <h1><small>notre Politique</small><br>d’Investissement</h1>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-md-1 nopadding">
+                                <span class="box_compteur">1/4</span>
+                            </div>
+                            <div class="col-md-11">
+                                <h3>Ticket d’investissement</h3>
+                                <p>Mollis eget sapien. Morbi nunc enim, mattis a imperdiet in, vehicula non augue. Nunc in luctus tellus.</p>
+                                <p>Ut ut ultrices sem. Nunc sed lacus tellus. Quisque sem neque, mattis nec justo in, tincidunt ornare ante. Morbi lectus elit, pulvinar nec nibh at, tincidunt laoreet ex. Praesent iaculis </p>
+                            </div>
+
+                        </diV>
+
+                    </div>
+                    <!-- ./slide-content -->
+
+                    <!-- slide-content -->
+                    <div class="slide-content">
+
+                        <diV class="col-md-3 block_image">
+                            <div class="row">
+                                <img src="images/image_285x250.jpg" >
+                                <h2>Nos champs d’intervention <br> <small>Capital risque</small></h2>
+                                <div class="triangle"></div>
+                            </div>
+
+                        </diV>
+                        <diV class="col-md-9 block_content">
+
+                            <div class="col-md-12">
+                                <h1><small>notre Politique</small><br>d’Investissement</h1>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-md-1 nopadding">
+                                <span class="box_compteur">2/4</span>
+                            </div>
+                            <div class="col-md-11">
+                                <h3>Ticket d’investissement</h3>
+                                <p>Mollis eget sapien. Morbi nunc enim, mattis a imperdiet in, vehicula non augue. Nunc in luctus tellus.</p>
+                                <p>Ut ut ultrices sem. Nunc sed lacus tellus. Quisque sem neque, mattis nec justo in, tincidunt ornare ante. Morbi lectus elit, pulvinar nec nibh at, tincidunt laoreet ex. Praesent iaculis </p>
+                            </div>
+
+                        </diV>
+
+                    </div>
+                    <!-- ./slide-content -->
+
+                    <!-- slide-content -->
+                    <div class="slide-content">
+
+                        <diV class="col-md-3 block_image">
+                            <div class="row">
+                                <img src="images/image_285x250.jpg" >
+                                <h2>Nos champs d’intervention <br> <small>Capital risque</small></h2>
+                                <div class="triangle"></div>
+                            </div>
+
+                        </diV>
+                        <diV class="col-md-9 block_content">
+
+                            <div class="col-md-12">
+                                <h1><small>notre Politique</small><br>d’Investissement</h1>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-md-1 nopadding">
+                                <span class="box_compteur">3/4</span>
+                            </div>
+                            <div class="col-md-11">
+                                <h3>Ticket d’investissement</h3>
+                                <p>Mollis eget sapien. Morbi nunc enim, mattis a imperdiet in, vehicula non augue. Nunc in luctus tellus.</p>
+                                <p>Ut ut ultrices sem. Nunc sed lacus tellus. Quisque sem neque, mattis nec justo in, tincidunt ornare ante. Morbi lectus elit, pulvinar nec nibh at, tincidunt laoreet ex. Praesent iaculis </p>
+                            </div>
+
+                        </diV>
+
+                    </div>
+                    <!-- ./slide-content -->
+
+                    <!-- slide-content -->
+                    <div class="slide-content">
+
+                        <diV class="col-md-3 block_image">
+                            <div class="row">
+                                <img src="images/image_285x250.jpg" >
+                                <h2>Nos champs d’intervention <br> <small>Capital risque</small></h2>
+                                <div class="triangle"></div>
+                            </div>
+
+                        </diV>
+                        <diV class="col-md-9 block_content">
+
+                            <div class="col-md-12">
+                                <h1><small>notre Politique</small><br>d’Investissement</h1>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-md-1 nopadding">
+                                <span class="box_compteur">4/4</span>
+                            </div>
+                            <div class="col-md-11">
+                                <h3>Ticket d’investissement</h3>
+                                <p>Mollis eget sapien. Morbi nunc enim, mattis a imperdiet in, vehicula non augue. Nunc in luctus tellus.</p>
+                                <p>Ut ut ultrices sem. Nunc sed lacus tellus. Quisque sem neque, mattis nec justo in, tincidunt ornare ante. Morbi lectus elit, pulvinar nec nibh at, tincidunt laoreet ex. Praesent iaculis </p>
+                            </div>
+
+                        </diV>
+
+                    </div>
+                    <!-- ./slide-content -->
+                </div>
+
+            </div>
+            <!-- ./Sidebar Content -->
+        </div>
+
     </div>
-
-    <div id="main-container" class="container mainbody container-ombre">
-        <div class="ombre_r"></div>
-        <div class="ombre_l"></div>
-        <div class="container_main col-md-12 col-sm12">
-
-            <div class="">
-                <h1>Page Simple</h1>
-                <p>page en cour de construction</p>
-            </div>
-
-        </div>
     <!-- /.row -->
 
-    </div>
-    <!-- /.container -->
+</div>
+<!-- /.Body Content -->
 
-    <!-- Footer -->
-    <footer class="wrap">
-        <div class="container container-ombre">
-            <div class="ombre_r"></div>
-            <div class="ombre_l"></div>
+<!-- Footer -->
+<footer class="wrap">
+    <div class="container container-ombre">
+        <div class="ombre_r"></div>
+        <div class="ombre_l"></div>
 
-            <div class="col-md-12 container_newsletter  ">
-                <div class="row">
-                    <div class="col-md-5 register_newsletter">
-                        <form id="register-newsletter" class="form-inline">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <label for="email_newsletter"><strong>inscrivez-vous</strong><br>à notre newslettre</label>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="form-group">
-                                        <input type="email" class="form-control" id="email_newsletter" placeholder="Votre e-mail" required>
-                                        <button type="submit" class="btn btn-newsletter">Envoyez</button>
-                                    </div>
+        <div class="col-md-12 container_newsletter  ">
+            <div class="row">
+                <div class="col-md-5 register_newsletter">
+                    <form id="register-newsletter" class="form-inline">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label for="email_newsletter"><strong>inscrivez-vous</strong><br>à notre newslettre</label>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="email_newsletter" placeholder="Votre e-mail" required>
+                                    <button type="submit" class="btn btn-newsletter">Envoyez</button>
                                 </div>
                             </div>
-                        </form>
-                    </div>
-                    <div class="col-md-7 espace"></div>
+                        </div>
+                    </form>
                 </div>
+                <div class="col-md-7 espace"></div>
+            </div>
+        </div>
+
+        <div class="col-md-12 barre_newslettre container-ombre ">
+            <div class="row">
+                <div class="col-md-6 barre_left"></div>
+                <div class="col-md-6 barre_right"></div>
+            </div>
+        </div>
+
+        <div class="col-md-12 container_footer container-ombre ">
+            <div class="col-md-3 copyright">
+                <small>Attijari SICAR © 2016</small>
+            </div>
+            <div class="col-md-9">
+                <ul class="nav nav-pills nav-stacked">
+                    <li class="current"><a href="Liens_utiles.html">Liens utiles</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="FAQ.html">FAQ</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="Liste_actualites.html">Actualités</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="Plan_du_site.html">Plan du site</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="Contact.html">Contact</a></li>
+                </ul>
             </div>
 
-            <div class="col-md-12 barre_newslettre container-ombre ">
-                <div class="row">
-                    <div class="col-md-6 barre_left"></div>
-                    <div class="col-md-6 barre_right"></div>
-                </div>
+            <div class="col-md-12">
+                <hr class="row">
             </div>
 
-            <div class="col-md-12 container_footer container-ombre ">
-                <div class="col-md-3 copyright">
-                    <small>Attijari SICAR © 2016</small>
-                </div>
-                <div class="col-md-9">
-                    <ul class="nav nav-pills nav-stacked">
-                        <li><a href="javascript:void(0)">Liens utiles</a></li>
-                        <li><span>.</span></li>
-                        <li><a href="javascript:void(0)">FAQ</a></li>
-                        <li><span>.</span></li>
-                        <li><a href="javascript:void(0)">Actualités</a></li>
-                        <li><span>.</span></li>
-                        <li><a href="javascript:void(0)">Plan du site</a></li>
-                        <li><span>.</span></li>
-                        <li><a href="javascript:void(0)">Contact</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-md-12">
-                    <hr class="row">
-                </div>
-
-                <div class="col-md-8">
-                    <address>
-                        <strong>Attijari SICAR / Société de capital Investissement Filiale d’Attijari Bank</strong><br>
-                        Rue des lacs de Mazurie, Immeuble Attijari, 1er étage,<br>
-                        1053 Les Berges du Lac, Tunis, Tunisie.<br>
-                        T (+216) 71 963 618 / 71 963 168<br>
-                        F (+216) 71 963 304<br>
-                        E-mail: contact@attijarisicar.com.tn
-                    </address>
-                </div>
-                <div class="col-md-4">
-                    <p class="powred_by text-right">Site web développé par : <a href="http://www.wezign.com">www.wezign.com</a></p>
-                </div>
-
+            <div class="col-md-8">
+                <address>
+                    <strong>Attijari SICAR / Société de capital Investissement Filiale d’Attijari Bank</strong><br>
+                    Rue des lacs de Mazurie, Immeuble Attijari, 1er étage,<br>
+                    1053 Les Berges du Lac, Tunis, Tunisie.<br>
+                    T (+216) 71 963 618 / 71 963 168<br>
+                    F (+216) 71 963 304<br>
+                    E-mail: contact@attijarisicar.com.tn
+                </address>
             </div>
-
-
+            <div class="col-md-4">
+                <p class="powred_by text-right">Site web développé par : <a href="http://www.wezign.com">www.wezign.com</a></p>
+            </div>
 
         </div>
 
-    </footer>
 
 
+    </div>
 
+</footer>
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<!-- jQuery migrate -->
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+<!-- Specific PAGE -->
+<!-- Slick -->
+<script type="text/javascript" src="js/slick/slick.min.js"></script>
+
+<script type="text/javascript" src="js/custom.js"></script>
+
+<!-- ./Specific PAGE -->
+
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 </body>

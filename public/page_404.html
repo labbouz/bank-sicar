@@ -8,15 +8,35 @@
     <title>Attijari SICAR</title>
 
 
+    <!-- Commun PAGE -->
+
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet">
+
+    <!-- Font Source Sans Pro -->
+    <link href="css/font-source-sans-pro.css" rel="stylesheet" >
+
+    <!-- Font Awesome -->
+    <link href="css/font-awesome.min.css" rel="stylesheet" >
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
 
-    <!-- Font Awesome -->
-    <link href="css/font-awesome.min.css" rel="stylesheet" >
+
+
+    <!-- ./Commun PAGE -->
+
+    <!-- Specific PAGE -->
+
+    <!-- Slick -->
+    <link href="js/slick/slick.css" rel="stylesheet" />
+    <!-- Custom styling for Slick -->
+    <link href="js/slick/slick-theme.css" rel="stylesheet" />
+
+    <!-- ./Specific PAGE -->
+
+
 
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -27,207 +47,229 @@
     <![endif]-->
 </head>
 <body>
-    <div class="container-fluid barr-top"></div>
+<div class="container-fluid barr-top"></div>
 
-    <!-- Header -->
-    <header class="container">
+<!-- Header -->
+<header class="container">
+    <div class="row">
+
+        <!-- LOGO -->
+        <div class="col-xs-12 col-sm-2 logo">
+            <div class="logo-image">
+                <a href="index.html" title="Attijari SICAR">
+                    <img class="logo-img" src="images/logo.png" alt="Attijari SICAR">
+                    <span>Attijari SICAR</span>
+                </a>
+                <small class="site-slogan"></small>
+            </div>
+        </div>
+        <!-- //LOGO -->
+
+        <div class="col-xs-12 col-sm-10">
+            <ul class="nav nav-pills nav-stacked">
+                <li><a href="Liens_utiles.html">Liens utiles</a></li>
+                <li><span>.</span></li>
+                <li><a href="FAQ.html">FAQ</a></li>
+                <li><span>.</span></li>
+                <li><a href="Liste_actualites.html">Actualités</a></li>
+                <li><span>.</span></li>
+                <li><a href="Plan_du_site.html">Plan du site</a></li>
+                <li><span>.</span></li>
+                <li><a href="Contact.html">Contact</a></li>
+            </ul>
+            <div class="clearfix"></div>
+            <ul class="social-network">
+                <li><a href="javascript:void(0)"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+                <li><a href="javascript:void(0)"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+
+<!-- Navigation -->
+<div id="menu-nav" class="container">
+    <nav class="main-menu navbar navbar-inverse">
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <ul class="nav navbar-nav">
+            <li>
+                <a href="index.html">Accueil<span class="barr-rigt"></span><span class="barr-bottom"></span></a></li>
+            </li>
+            <li class="active dropdown">
+                <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Présentation<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="Qui_sommes_nous.html">Qui sommes nous</a></li>
+                    <li><a href="Nos_metiers.html">Nos métiers</a></li>
+                    <li><a href="Nos_valeurs.html">Nos valeurs</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="javascript:void(0)">Stratégie d’investissement<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+            </li>
+            <li>
+                <a href="javascript:void(0)">Dossier de financement<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+            </li>
+            <li>
+                <a href="Liste_actualites.html">Actualités<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+            </li>
+            <li>
+                <a href="Contact.html">Contact<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
+            </li>
+        </ul>
+        <!-- /.navbar-collapse -->
+    </nav>
+</div>
+
+
+<!-- Container Search -->
+<div id="search-container" class="container search_container">
+    <div class="ombre_r"></div>
+    <div class="ombre_l"></div>
+    <div class="col-md-5 espace"><div class="ombre"></div></div>
+    <div class="col-md-7 search">
+        <div class="ombre_center"></div>
+        <div class="ombre_input_search">
+            <div class="ombre">
+                <form class="navbar-right form-search row">
+                    <div class="form-group  col-md-10 nopadding">
+                        <div class="input-group">
+                            <div class="input-group-addon"><i class="fa fa-search" aria-hidden="true"></i></div>
+                            <input type="text" class="form-control" id="search" placeholder="Rechercher dans le site web">
+                        </div>
+                    </div>
+                    <button type="submit" class="btn btn-default  col-md-2">Rechercher</button>
+                </form>
+
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+<!-- Body Content -->
+<div id="main-container" class="container mainbody container-ombre">
+    <div class="ombre_r"></div>
+    <div class="ombre_l"></div>
+    <div class="container_main col-md-12 col-sm12">
+
+
         <div class="row">
 
-            <!-- LOGO -->
-            <div class="col-xs-12 col-sm-2 logo">
-                <div class="logo-image">
-                    <a href="index.html" title="Attijari SICAR">
-                        <img class="logo-img" src="images/logo.png" alt="Attijari SICAR">
-                        <span>Attijari SICAR</span>
-                    </a>
-                    <small class="site-slogan"></small>
-                </div>
-            </div>
-            <!-- //LOGO -->
 
-            <div class="col-xs-12 col-sm-10">
-                <ul class="nav nav-pills nav-stacked">
-                    <li><a href="javascript:void(0)">Liens utiles</a></li>
-                    <li><span>.</span></li>
-                    <li><a href="javascript:void(0)">FAQ</a></li>
-                    <li><span>.</span></li>
-                    <li><a href="javascript:void(0)">Actualités</a></li>
-                    <li><span>.</span></li>
-                    <li><a href="javascript:void(0)">Plan du site</a></li>
-                    <li><span>.</span></li>
-                    <li><a href="javascript:void(0)">Contact</a></li>
-                </ul>
-                <div class="clearfix"></div>
-                <ul class="social-network">
-                    <li><a href="javascript:void(0)"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
-                    <li><a href="javascript:void(0)"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                    <li><a href="javascript:void(0)"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
-                    <li><a href="javascript:void(0)"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-                </ul>
+            <!-- Content Main Body -->
+            <div class="col-md-12 col-sm-12 content content_404">
+                <h1 class="text-center">404<small>Erreur</small></h1>
+
+                <h2 class="text-center">Cette page n’est malheureusement pas disponible</h2>
+                <p class="text-center">Le lien que vous avez suivi peut être incorrect ou la page peut avoir été supprimée</p>
             </div>
+            <!-- ./Content Main Body -->
+
+
         </div>
-    </header>
 
-    <!-- Navigation -->
-    <div id="menu-nav" class="container">
-        <nav class="main-menu navbar navbar-inverse">
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <ul class="nav navbar-nav">
-                <li>
-                    <a href="javascript:void(0)">Accueil<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                </li>
-                <li class="active dropdown">
-                    <a href="javascript:void(0)" class="dropdown-toggle" data-toggle="dropdown">Présentation<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="javascript:void(0)">Qui sommes nous</a></li>
-                        <li><a href="javascript:void(0)">Nos métiers</a></li>
-                        <li><a href="javascript:void(0)">Nos valeurs</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="javascript:void(0)">Stratégie d’investissement<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                </li>
-                <li>
-                    <a href="javascript:void(0)">Dossier de financement<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                </li>
-                <li>
-                    <a href="javascript:void(0)">Actualités<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                </li>
-                <li>
-                    <a href="javascript:void(0)">Contact<span class="barr-rigt"></span><span class="barr-bottom"></span></a>
-                </li>
-            </ul>
-            <!-- /.navbar-collapse -->
-        </nav>
+
     </div>
-
-    <!-- Page Content -->
-    <div id="search-container" class="container search_container">
-        <div class="ombre_r"></div>
-        <div class="ombre_l"></div>
-
-        <div class="col-md-5 espace"><div class="ombre"></div></div>
-        <div class="col-md-7 search">
-            <div class="ombre_center"></div>
-            <div class="ombre_input_search">
-                <div class="ombre">
-                    <form class="navbar-right form-search row">
-                        <div class="form-group  col-md-10 nopadding">
-                            <div class="input-group">
-                                <div class="input-group-addon"><i class="fa fa-search" aria-hidden="true"></i></div>
-                                <input type="text" class="form-control" id="search" placeholder="Rechercher dans le site web">
-                            </div>
-                        </div>
-                        <button type="submit" class="btn btn-default  col-md-2">Rechercher</button>
-                    </form>
-
-                </div>
-            </div>
-
-
-        </div>
-    </div>
-
-    <div id="main-container" class="container mainbody container-ombre">
-        <div class="ombre_r"></div>
-        <div class="ombre_l"></div>
-        <div class="container_main col-md-12 col-sm12">
-
-            <div class="">
-                <h1>Page Simple</h1>
-                <p>page en cour de construction</p>
-            </div>
-
-        </div>
     <!-- /.row -->
 
-    </div>
-    <!-- /.container -->
+</div>
+<!-- /.Body Content -->
 
-    <!-- Footer -->
-    <footer class="wrap">
-        <div class="container container-ombre">
-            <div class="ombre_r"></div>
-            <div class="ombre_l"></div>
+<!-- Footer -->
+<footer class="wrap">
+    <div class="container container-ombre">
+        <div class="ombre_r"></div>
+        <div class="ombre_l"></div>
 
-            <div class="col-md-12 container_newsletter  ">
-                <div class="row">
-                    <div class="col-md-5 register_newsletter">
-                        <form id="register-newsletter" class="form-inline">
-                            <div class="row">
-                                <div class="col-md-4">
-                                    <label for="email_newsletter"><strong>inscrivez-vous</strong><br>à notre newslettre</label>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="form-group">
-                                        <input type="email" class="form-control" id="email_newsletter" placeholder="Votre e-mail" required>
-                                        <button type="submit" class="btn btn-newsletter">Envoyez</button>
-                                    </div>
+        <div class="col-md-12 container_newsletter  ">
+            <div class="row">
+                <div class="col-md-5 register_newsletter">
+                    <form id="register-newsletter" class="form-inline">
+                        <div class="row">
+                            <div class="col-md-4">
+                                <label for="email_newsletter"><strong>inscrivez-vous</strong><br>à notre newslettre</label>
+                            </div>
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <input type="email" class="form-control" id="email_newsletter" placeholder="Votre e-mail" required>
+                                    <button type="submit" class="btn btn-newsletter">Envoyez</button>
                                 </div>
                             </div>
-                        </form>
-                    </div>
-                    <div class="col-md-7 espace"></div>
+                        </div>
+                    </form>
                 </div>
+                <div class="col-md-7 espace"></div>
+            </div>
+        </div>
+
+        <div class="col-md-12 barre_newslettre container-ombre ">
+            <div class="row">
+                <div class="col-md-6 barre_left"></div>
+                <div class="col-md-6 barre_right"></div>
+            </div>
+        </div>
+
+        <div class="col-md-12 container_footer container-ombre ">
+            <div class="col-md-3 copyright">
+                <small>Attijari SICAR © 2016</small>
+            </div>
+            <div class="col-md-9">
+                <ul class="nav nav-pills nav-stacked">
+                    <li><a href="Liens_utiles.html">Liens utiles</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="FAQ.html">FAQ</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="Liste_actualites.html">Actualités</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="Plan_du_site.html">Plan du site</a></li>
+                    <li><span>.</span></li>
+                    <li><a href="Contact.html">Contact</a></li>
+                </ul>
             </div>
 
-            <div class="col-md-12 barre_newslettre container-ombre ">
-                <div class="row">
-                    <div class="col-md-6 barre_left"></div>
-                    <div class="col-md-6 barre_right"></div>
-                </div>
+            <div class="col-md-12">
+                <hr class="row">
             </div>
 
-            <div class="col-md-12 container_footer container-ombre ">
-                <div class="col-md-3 copyright">
-                    <small>Attijari SICAR © 2016</small>
-                </div>
-                <div class="col-md-9">
-                    <ul class="nav nav-pills nav-stacked">
-                        <li><a href="javascript:void(0)">Liens utiles</a></li>
-                        <li><span>.</span></li>
-                        <li><a href="javascript:void(0)">FAQ</a></li>
-                        <li><span>.</span></li>
-                        <li><a href="javascript:void(0)">Actualités</a></li>
-                        <li><span>.</span></li>
-                        <li><a href="javascript:void(0)">Plan du site</a></li>
-                        <li><span>.</span></li>
-                        <li><a href="javascript:void(0)">Contact</a></li>
-                    </ul>
-                </div>
-
-                <div class="col-md-12">
-                    <hr class="row">
-                </div>
-
-                <div class="col-md-8">
-                    <address>
-                        <strong>Attijari SICAR / Société de capital Investissement Filiale d’Attijari Bank</strong><br>
-                        Rue des lacs de Mazurie, Immeuble Attijari, 1er étage,<br>
-                        1053 Les Berges du Lac, Tunis, Tunisie.<br>
-                        T (+216) 71 963 618 / 71 963 168<br>
-                        F (+216) 71 963 304<br>
-                        E-mail: contact@attijarisicar.com.tn
-                    </address>
-                </div>
-                <div class="col-md-4">
-                    <p class="powred_by text-right">Site web développé par : <a href="http://www.wezign.com">www.wezign.com</a></p>
-                </div>
-
+            <div class="col-md-8">
+                <address>
+                    <strong>Attijari SICAR / Société de capital Investissement Filiale d’Attijari Bank</strong><br>
+                    Rue des lacs de Mazurie, Immeuble Attijari, 1er étage,<br>
+                    1053 Les Berges du Lac, Tunis, Tunisie.<br>
+                    T (+216) 71 963 618 / 71 963 168<br>
+                    F (+216) 71 963 304<br>
+                    E-mail: contact@attijarisicar.com.tn
+                </address>
             </div>
-
-
+            <div class="col-md-4">
+                <p class="powred_by text-right">Site web développé par : <a href="http://www.wezign.com">www.wezign.com</a></p>
+            </div>
 
         </div>
 
-    </footer>
 
 
+    </div>
 
+</footer>
 
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<!-- jQuery migrate -->
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+<!-- Specific PAGE -->
+<!-- Slick -->
+<script type="text/javascript" src="js/slick/slick.min.js"></script>
+
+<script type="text/javascript" src="js/custom.js"></script>
+
+<!-- ./Specific PAGE -->
+
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 </body>
