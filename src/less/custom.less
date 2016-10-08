@@ -248,6 +248,7 @@ header {
   z-index: 10;
 
   .image {
+    position: relative;
     outline: none !important;
     background-color:  #d7d7d7;
     border-bottom: 1px solid #ffffff;
@@ -258,6 +259,96 @@ header {
       //width: 100%;
       margin: 0 auto;
       height: auto;
+    }
+  }
+
+}
+
+.main_slides_home {
+  margin-top: -20px;
+  margin-bottom: -70px;
+  position: relative;
+  z-index: 10;
+
+  .image {
+    position: relative;
+    outline: none !important;
+    background-color:  #d7d7d7;
+    border-bottom: 1px solid #ffffff;
+
+    .container_fix {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+
+      .container {
+
+        h1 {
+          background-color: rgba(255, 171, 8, 0.8);
+          padding: 24px;
+          display: inline-block;
+          font-family: "Source Sans Pro", sans-serif;
+          font-size: 26px;
+          font-weight: 200;
+          text-transform: uppercase;
+          color: #000000;
+          margin-top: 150px;
+        }
+
+
+      }
+
+
+
+    }
+
+    img {
+      outline: none !important;
+
+      //width: 100%;
+      margin: 0 auto;
+      height: auto;
+    }
+  }
+
+
+  .next-slide {
+    position: absolute;
+    top:226px;
+    left: 50%;
+    margin: 0 0 0 -523px;
+    padding: 9px 16px;
+    border: none;
+    font-size: 21px;
+    background-color:  #ffffff;
+    color: #ffab08;
+    outline: none;
+    z-index: 9999;
+
+    &:hover {
+      background-color:  #ffab08;
+      color: #ffffff;
+    }
+  }
+
+  .prev-slide {
+    position: absolute;
+    top:226px;
+    left: 50%;
+    margin: 0 0 0 -570px;
+    padding: 9px 16px;
+    border: none;
+    font-size: 21px;
+    background-color:  #ffffff;
+    color: #ffab08;
+    outline: none;
+    z-index: 9999;
+
+    &:hover {
+      background-color:  #ffab08;
+      color: #ffffff;
     }
   }
 
@@ -1527,8 +1618,8 @@ footer {
 
     &.title_info {
       font-family: "Source Sans Pro",sans-serif;
-      font-weight: 700;
-      font-size: 18px;
+      font-weight: 400;
+      font-size: 19px;
       margin-top: 10px;
       margin-bottom: 5px;
     }
