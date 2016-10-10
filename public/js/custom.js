@@ -1,6 +1,15 @@
 
 $(document).ready(function(){
 
+    var _nombre_col_home = 3;
+    if ($('.navbar-toggle').is(':hidden')) {
+        // device is == eXtra Small
+        _nombre_col_home = 3;
+    } else {
+        _nombre_col_home = 1;
+    }
+
+
     // For main slide
     $('.main_slides').slick({
         autoplay: true,
@@ -23,6 +32,16 @@ $(document).ready(function(){
         cssEase: 'linear',
         nextArrow: '<button class="next-slide"><i class="fa fa-chevron-right" aria-hidden="true"></i></button>',
         prevArrow: '<button class="prev-slide"><i class="fa fa-chevron-left" aria-hidden="true"></i></button>'
+    });
+
+    // For Module News
+    $('.slide-actualites-home').slick({
+        autoplay: true,
+        autoplaySpeed: 4000,
+        arrows: false,
+        infinite: true,
+        slidesToShow: _nombre_col_home,
+        slidesToScroll: _nombre_col_home
     });
 
     // For Module News
