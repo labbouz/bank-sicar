@@ -261,40 +261,59 @@
                         </div>
                     </div>
 
-                    <div class="row">
+                    <form data-toggle="validator" role="form">
+
+                        <div class="row">
                         <div class="col-md-5 col-md-offset-1">
-                            <input type="text" class="form-control" placeholder="Nom">
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="nom" placeholder="Nom" data-error="Veuillez saisir votre nom." required>
+                                <div class="help-block with-errors"></div>
+                            </div>
                         </div>
                         <div class="col-md-5">
-                            <input type="text" class="form-control" placeholder="Prénom">
+                            <div class="form-group">
+                                <input type="text" class="form-control" name="prenom" placeholder="Prénom" data-error="Veuillez saisir votre prénom." required>
+                                <div class="help-block with-errors"></div>
+                            </div>
                         </div>
 
                     </div>
 
-                    <div class="row">
+                        <div class="row">
                         <div class="col-md-5 col-md-offset-1">
-                            <input type="text" class="form-control" placeholder="Email">
+                            <div class="form-group">
+                                <input type="email" class="form-control" placeholder="Email" data-error="Cette adresse est invalide." required>
+                                <div class="help-block with-errors"></div>
+                            </div>
                         </div>
                         <div class="col-md-5">
-                            <input type="text" class="form-control" placeholder="Téléphone">
+                            <div class="form-group">
+                                <input type="number" class="form-control" placeholder="Téléphone" data-error="Veuillez saisir votre numéro de téléphone." required>
+                                <div class="help-block with-errors"></div>
+                            </div>
                         </div>
 
                     </div>
 
-                    <div class="row">
+                        <div class="row">
                         <div class="col-md-10 col-md-offset-1">
-                            <textarea class="form-control" rows="5" placeholder="Message"></textarea>
+                            <div class="form-group">
+                                <textarea class="form-control" rows="5" placeholder="Message" data-error="Veuillez saisir votre message." required></textarea>
+                                <div class="help-block with-errors"></div>
+                            </div>
                         </div>
 
                     </div>
 
-                    <div class="row">
+                        <div class="row">
                         <div class="col-md-2 col-md-offset-5">
                             <button type="submit" class="btn btn-default btn-lg btn-block">Envoyez</button>
 
                         </div>
 
                     </div>
+
+                    </form>
 
                 </div>
 
@@ -539,6 +558,9 @@
 <!-- Google Map -->
 <script src="https://maps.googleapis.com/maps/api/js?v=3&amp;sensor=false&amp;key=AIzaSyAsnXuvXE9IMb6G5inKcqgoKVdZAbRfdZg"></script>
 <script type="text/javascript" src="js/custom_map.js"></script>
+
+<!-- Validator -->
+<script type="text/javascript" src="js/validator.min.js"></script>
 
 <script type="text/javascript" src="js/custom.js"></script>
 

@@ -2,445 +2,445 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca7f320e-588f-4595-af0d-e776171e309f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.eot" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.otf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.otf.woff" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.ttf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.ttf.woff2" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.eot" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.otf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.otf.woff" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.ttf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.ttf.woff2" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.eot" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.otf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.otf.woff" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.ttf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.ttf.woff2" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.eot" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.otf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.otf.woff" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.ttf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.ttf.woff2" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/_logo.png" afterPath="$PROJECT_DIR$/public/images/_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/about.jpg" afterPath="$PROJECT_DIR$/public/images/about.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/1.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/2.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/3.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/_1.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/_2.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/_3.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/barre_newslettre.png" afterPath="$PROJECT_DIR$/public/images/barre_newslettre.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/barre_newslettre_l.png" afterPath="$PROJECT_DIR$/public/images/barre_newslettre_l.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/barre_newslettre_r.png" afterPath="$PROJECT_DIR$/public/images/barre_newslettre_r.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/bg_titre_accordion.jpg" afterPath="$PROJECT_DIR$/public/images/bg_titre_accordion.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/disc_li.png" afterPath="$PROJECT_DIR$/public/images/disc_li.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/icon_pdf.png" afterPath="$PROJECT_DIR$/public/images/icon_pdf.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/icone_accordion.png" afterPath="$PROJECT_DIR$/public/images/icone_accordion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/image_285x250.jpg" afterPath="$PROJECT_DIR$/public/images/image_285x250.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/infos-images/1.jpg" afterPath="$PROJECT_DIR$/public/images/infos-images/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/infos-images/2.jpg" afterPath="$PROJECT_DIR$/public/images/infos-images/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/infos-images/3.jpg" afterPath="$PROJECT_DIR$/public/images/infos-images/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/logo.png" afterPath="$PROJECT_DIR$/public/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/marker.png" afterPath="$PROJECT_DIR$/public/images/marker.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/moin_accordion.png" afterPath="$PROJECT_DIR$/public/images/moin_accordion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/nos_champs_d_intervention_1.jpg" afterPath="$PROJECT_DIR$/public/images/nos_champs_d_intervention_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/nos_champs_d_intervention_2.jpg" afterPath="$PROJECT_DIR$/public/images/nos_champs_d_intervention_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/nos_metiers.jpg" afterPath="$PROJECT_DIR$/public/images/nos_metiers.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/nos_modalites_d_intervention.jpg" afterPath="$PROJECT_DIR$/public/images/nos_modalites_d_intervention.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/nos_valeurs.jpg" afterPath="$PROJECT_DIR$/public/images/nos_valeurs.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_center.png" afterPath="$PROJECT_DIR$/public/images/ombre_center.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_espace.png" afterPath="$PROJECT_DIR$/public/images/ombre_espace.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_input_serch.png" afterPath="$PROJECT_DIR$/public/images/ombre_input_serch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_l.png" afterPath="$PROJECT_DIR$/public/images/ombre_l.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_r.png" afterPath="$PROJECT_DIR$/public/images/ombre_r.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_serch_l.png" afterPath="$PROJECT_DIR$/public/images/ombre_serch_l.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_serch_r.png" afterPath="$PROJECT_DIR$/public/images/ombre_serch_r.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/plus_accordion.png" afterPath="$PROJECT_DIR$/public/images/plus_accordion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/qui_somme_nous.jpg" afterPath="$PROJECT_DIR$/public/images/qui_somme_nous.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides-home/1.jpg" afterPath="$PROJECT_DIR$/public/images/slides-home/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides-home/2.jpg" afterPath="$PROJECT_DIR$/public/images/slides-home/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides-home/3.jpg" afterPath="$PROJECT_DIR$/public/images/slides-home/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/1.jpg" afterPath="$PROJECT_DIR$/public/images/slides/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/2.jpg" afterPath="$PROJECT_DIR$/public/images/slides/2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/3.jpg" afterPath="$PROJECT_DIR$/public/images/slides/3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/4.jpg" afterPath="$PROJECT_DIR$/public/images/slides/4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/5.jpg" afterPath="$PROJECT_DIR$/public/images/slides/5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/6.jpg" afterPath="$PROJECT_DIR$/public/images/slides/6.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/thumb_item_141x119.jpg" afterPath="$PROJECT_DIR$/public/images/thumb_item_141x119.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/top_calque_info_image.png" afterPath="$PROJECT_DIR$/public/images/top_calque_info_image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/triangle.png" afterPath="$PROJECT_DIR$/public/images/triangle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/ajax-loader.gif" afterPath="$PROJECT_DIR$/public/js/slick/ajax-loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/fonts/slick.eot" afterPath="$PROJECT_DIR$/public/js/slick/fonts/slick.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/fonts/slick.ttf" afterPath="$PROJECT_DIR$/public/js/slick/fonts/slick.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/fonts/slick.woff" afterPath="$PROJECT_DIR$/public/js/slick/fonts/slick.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.eot" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.otf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.otf.woff" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.ttf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.ttf.woff2" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.eot" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.otf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.otf.woff" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.ttf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.ttf.woff2" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.eot" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.otf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.otf.woff" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.ttf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.ttf.woff2" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/_logo.png" afterPath="$PROJECT_DIR$/src/images/_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/barre_newslettre.png" afterPath="$PROJECT_DIR$/src/images/barre_newslettre.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/barre_newslettre_l.png" afterPath="$PROJECT_DIR$/src/images/barre_newslettre_l.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/barre_newslettre_r.png" afterPath="$PROJECT_DIR$/src/images/barre_newslettre_r.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/bg_titre_accordion.jpg" afterPath="$PROJECT_DIR$/src/images/bg_titre_accordion.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/disc_li.png" afterPath="$PROJECT_DIR$/src/images/disc_li.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/icon_pdf.png" afterPath="$PROJECT_DIR$/src/images/icon_pdf.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/icone_accordion.png" afterPath="$PROJECT_DIR$/src/images/icone_accordion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/logo.png" afterPath="$PROJECT_DIR$/src/images/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/marker.png" afterPath="$PROJECT_DIR$/src/images/marker.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/moin_accordion.png" afterPath="$PROJECT_DIR$/src/images/moin_accordion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_center.png" afterPath="$PROJECT_DIR$/src/images/ombre_center.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_espace.png" afterPath="$PROJECT_DIR$/src/images/ombre_espace.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_input_serch.png" afterPath="$PROJECT_DIR$/src/images/ombre_input_serch.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_l.png" afterPath="$PROJECT_DIR$/src/images/ombre_l.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_r.png" afterPath="$PROJECT_DIR$/src/images/ombre_r.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_serch_l.png" afterPath="$PROJECT_DIR$/src/images/ombre_serch_l.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_serch_r.png" afterPath="$PROJECT_DIR$/src/images/ombre_serch_r.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/plus_accordion.png" afterPath="$PROJECT_DIR$/src/images/plus_accordion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/top_calque_info_image.png" afterPath="$PROJECT_DIR$/src/images/top_calque_info_image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/triangle.png" afterPath="$PROJECT_DIR$/src/images/triangle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/ajax-loader.gif" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/ajax-loader.gif" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.eot" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.ttf" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.woff" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Black.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Black.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-BlackIt.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-BlackIt.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Bold.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Bold.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-BoldIt.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-BoldIt.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-ExtraLight.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-ExtraLight.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-ExtraLightIt.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-ExtraLightIt.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-It.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-It.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Light.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Light.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-LightIt.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-LightIt.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Regular.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Semibold.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Semibold.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-SemiboldIt.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-SemiboldIt.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Black.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Black.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-BlackIt.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-BlackIt.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Bold.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Bold.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-BoldIt.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-BoldIt.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-ExtraLight.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-ExtraLight.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-ExtraLightIt.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-ExtraLightIt.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-It.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-It.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Light.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Light.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-LightIt.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-LightIt.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Regular.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Regular.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Semibold.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Semibold.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-SemiboldIt.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-SemiboldIt.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Black.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Black.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-BlackIt.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-BlackIt.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Bold.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Bold.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-BoldIt.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-BoldIt.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-ExtraLight.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-ExtraLight.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-ExtraLightIt.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-ExtraLightIt.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-It.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-It.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Light.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Light.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-LightIt.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-LightIt.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Regular.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Semibold.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Semibold.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-SemiboldIt.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-SemiboldIt.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Black.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Black.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-BlackIt.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-BlackIt.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Bold.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Bold.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-BoldIt.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-BoldIt.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-ExtraLight.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-ExtraLight.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-ExtraLightIt.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-ExtraLightIt.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-It.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-It.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Light.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Light.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-LightIt.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-LightIt.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Regular.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Regular.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Semibold.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Semibold.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-SemiboldIt.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-SemiboldIt.otf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Black.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Black.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-BlackIt.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-BlackIt.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Bold.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Bold.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-BoldIt.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-BoldIt.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-ExtraLight.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-ExtraLight.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-ExtraLightIt.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-ExtraLightIt.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-It.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-It.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Light.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Light.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-LightIt.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-LightIt.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Regular.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Regular.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Semibold.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Semibold.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-SemiboldIt.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-SemiboldIt.ttf.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Black.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Black.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-BlackIt.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-BlackIt.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Bold.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Bold.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-BoldIt.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-BoldIt.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-ExtraLight.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-ExtraLight.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-ExtraLightIt.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-ExtraLightIt.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-It.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-It.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Light.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Light.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-LightIt.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-LightIt.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Regular.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Regular.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Semibold.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Semibold.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-SemiboldIt.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-SemiboldIt.otf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Black.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Black.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-BlackIt.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-BlackIt.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Bold.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Bold.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-BoldIt.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-BoldIt.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-ExtraLight.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-ExtraLight.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-ExtraLightIt.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-ExtraLightIt.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-It.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-It.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Light.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Light.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-LightIt.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-LightIt.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Regular.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Regular.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Semibold.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Semibold.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-SemiboldIt.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-SemiboldIt.ttf.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bank-sicar.iml" afterPath="$PROJECT_DIR$/.idea/bank-sicar.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lessc/lessc.xml" afterPath="$PROJECT_DIR$/.idea/lessc/lessc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generator_css.php" afterPath="$PROJECT_DIR$/generator_css.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Constituez_votre_dossier.html" afterPath="$PROJECT_DIR$/public/Constituez_votre_dossier.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Contact.html" afterPath="$PROJECT_DIR$/public/Contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Details_actualites.html" afterPath="$PROJECT_DIR$/public/Details_actualites.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/FAQ.html" afterPath="$PROJECT_DIR$/public/FAQ.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Liens_utiles.html" afterPath="$PROJECT_DIR$/public/Liens_utiles.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Liste_actualites.html" afterPath="$PROJECT_DIR$/public/Liste_actualites.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Nos_champs_d_intervention.html" afterPath="$PROJECT_DIR$/public/Nos_champs_d_intervention.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Nos_metiers.html" afterPath="$PROJECT_DIR$/public/Nos_metiers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Nos_modalites_d_intervention.html" afterPath="$PROJECT_DIR$/public/Nos_modalites_d_intervention.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Nos_valeurs.html" afterPath="$PROJECT_DIR$/public/Nos_valeurs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Notre_politique_d_investissement.html" afterPath="$PROJECT_DIR$/public/Notre_politique_d_investissement.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Page_simple.html" afterPath="$PROJECT_DIR$/public/Page_simple.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Plan_du_site.html" afterPath="$PROJECT_DIR$/public/Plan_du_site.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Processus_de_decision.html" afterPath="$PROJECT_DIR$/public/Processus_de_decision.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Qui_sommes_nous.html" afterPath="$PROJECT_DIR$/public/Qui_sommes_nous.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/bootstrap.css" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/custom.css" afterPath="$PROJECT_DIR$/public/css/custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/font-source-sans-pro.css" afterPath="$PROJECT_DIR$/public/css/font-source-sans-pro.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/bootstrap.js" afterPath="$PROJECT_DIR$/public/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/custom.js" afterPath="$PROJECT_DIR$/public/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/custom_map.js" afterPath="$PROJECT_DIR$/public/js/custom_map.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/jquery-ui.min.js" afterPath="$PROJECT_DIR$/public/js/jquery-ui.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/npm.js" afterPath="$PROJECT_DIR$/public/js/npm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/fonts/slick.svg" afterPath="$PROJECT_DIR$/public/js/slick/fonts/slick.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/slick-theme.css" afterPath="$PROJECT_DIR$/public/js/slick/slick-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/slick.css" afterPath="$PROJECT_DIR$/public/js/slick/slick.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/slick.min.js" afterPath="$PROJECT_DIR$/public/js/slick/slick.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page_404.html" afterPath="$PROJECT_DIR$/public/page_404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/HELP-US-OUT.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/css/font-awesome.css" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/animated.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/animated.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/core.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/fixed-width.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/font-awesome.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/icons.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/larger.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/list.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/mixins.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/path.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/screen-reader.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/screen-reader.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/stacked.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/variables.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_animated.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_animated.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_core.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_icons.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_larger.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_list.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_mixins.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_path.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_screen-reader.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_stacked.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_variables.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.ttf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.ttf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/.jscsrc" afterPath="$PROJECT_DIR$/src/js/.jscsrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/.jshintrc" afterPath="$PROJECT_DIR$/src/js/.jshintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/affix.js" afterPath="$PROJECT_DIR$/src/js/affix.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/alert.js" afterPath="$PROJECT_DIR$/src/js/alert.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/button.js" afterPath="$PROJECT_DIR$/src/js/button.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/carousel.js" afterPath="$PROJECT_DIR$/src/js/carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/collapse.js" afterPath="$PROJECT_DIR$/src/js/collapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Notre_politique_d_investissement.html" afterPath="$PROJECT_DIR$/public/Notre_politique_d_investissement.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/bg_titre_accordion.jpg" afterPath="$PROJECT_DIR$/src/images/bg_titre_accordion.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.ttf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/custom.js" afterPath="$PROJECT_DIR$/public/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.svg" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/1.jpg" afterPath="$PROJECT_DIR$/public/images/slides/1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/dropdown.js" afterPath="$PROJECT_DIR$/src/js/dropdown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/modal.js" afterPath="$PROJECT_DIR$/src/js/modal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/popover.js" afterPath="$PROJECT_DIR$/src/js/popover.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/scrollspy.js" afterPath="$PROJECT_DIR$/src/js/scrollspy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tab.js" afterPath="$PROJECT_DIR$/src/js/tab.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/README.md" afterPath="$PROJECT_DIR$/src/js/tests/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/index.html" afterPath="$PROJECT_DIR$/src/js/tests/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/.jshintrc" afterPath="$PROJECT_DIR$/src/js/tests/unit/.jshintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/affix.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/affix.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/alert.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/alert.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/button.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/button.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/carousel.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/collapse.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/collapse.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/dropdown.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/dropdown.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/modal.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/modal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/phantom.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/phantom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/popover.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/popover.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/scrollspy.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/scrollspy.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/tab.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/tab.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/tooltip.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/tooltip.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/vendor/jquery.min.js" afterPath="$PROJECT_DIR$/src/js/tests/vendor/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/vendor/qunit.css" afterPath="$PROJECT_DIR$/src/js/tests/vendor/qunit.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/vendor/qunit.js" afterPath="$PROJECT_DIR$/src/js/tests/vendor/qunit.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/affix-with-sticky-footer.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/affix-with-sticky-footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/affix.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/affix.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/alert.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/alert.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/button.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/button.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/carousel.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/carousel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/collapse.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/collapse.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/dropdown.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/dropdown.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/modal.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/modal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/popover.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/popover.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/scrollspy.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/scrollspy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/barre_newslettre_r.png" afterPath="$PROJECT_DIR$/src/images/barre_newslettre_r.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-BlackIt.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-BlackIt.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/utilities.less" afterPath="$PROJECT_DIR$/src/less/utilities.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Semibold.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Semibold.ttf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/tab.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/tab.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/tooltip.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/tooltip.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tooltip.js" afterPath="$PROJECT_DIR$/src/js/tooltip.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/transition.js" afterPath="$PROJECT_DIR$/src/js/transition.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/.csscomb.json" afterPath="$PROJECT_DIR$/src/less/.csscomb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Bold.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Bold.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/barre_newslettre.png" afterPath="$PROJECT_DIR$/src/images/barre_newslettre.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/gradients.less" afterPath="$PROJECT_DIR$/src/less/mixins/gradients.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-LightIt.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-LightIt.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_espace.png" afterPath="$PROJECT_DIR$/public/images/ombre_espace.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/thumb_item_141x119.jpg" afterPath="$PROJECT_DIR$/public/images/thumb_item_141x119.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/fonts/slick.svg" afterPath="$PROJECT_DIR$/public/js/slick/fonts/slick.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Details_actualites.html" afterPath="$PROJECT_DIR$/public/Details_actualites.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/buttons.less" afterPath="$PROJECT_DIR$/src/less/mixins/buttons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Semibold.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Semibold.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.otf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/source-sans-pro.css" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/source-sans-pro.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/barre_newslettre_l.png" afterPath="$PROJECT_DIR$/public/images/barre_newslettre_l.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Regular.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Regular.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick-theme.less" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick-theme.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/reset-filter.less" afterPath="$PROJECT_DIR$/src/less/mixins/reset-filter.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.min.js" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/image.less" afterPath="$PROJECT_DIR$/src/less/mixins/image.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/slick-theme.css" afterPath="$PROJECT_DIR$/public/js/slick/slick-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/list-group.less" afterPath="$PROJECT_DIR$/src/less/list-group.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.otf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.otf.woff" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/_1.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/tables.less" afterPath="$PROJECT_DIR$/src/less/tables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.ttf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/popovers.less" afterPath="$PROJECT_DIR$/src/less/popovers.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/path.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/alert.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/alert.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Semibold.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Semibold.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-It.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-It.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/fonts/slick.woff" afterPath="$PROJECT_DIR$/public/js/slick/fonts/slick.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/plus_accordion.png" afterPath="$PROJECT_DIR$/src/images/plus_accordion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Black.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Black.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/labels.less" afterPath="$PROJECT_DIR$/src/less/mixins/labels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-SemiboldIt.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-SemiboldIt.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_variables.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/pagination.less" afterPath="$PROJECT_DIR$/src/less/mixins/pagination.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/infos-images/3.jpg" afterPath="$PROJECT_DIR$/public/images/infos-images/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-SemiboldIt.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-SemiboldIt.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.ttf.woff2" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/dropdown.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/dropdown.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/.csslintrc" afterPath="$PROJECT_DIR$/src/less/.csslintrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/alerts.less" afterPath="$PROJECT_DIR$/src/less/alerts.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/badges.less" afterPath="$PROJECT_DIR$/src/less/badges.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/bootstrap.less" afterPath="$PROJECT_DIR$/src/less/bootstrap.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/affix.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/affix.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides-home/2.jpg" afterPath="$PROJECT_DIR$/public/images/slides-home/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/LICENSE.txt" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/README.markdown" afterPath="$PROJECT_DIR$/src/slick-1.6.0/README.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_serch_r.png" afterPath="$PROJECT_DIR$/src/images/ombre_serch_r.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.ttf.woff2" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/nos_metiers.jpg" afterPath="$PROJECT_DIR$/public/images/nos_metiers.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Bold.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Bold.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Semibold.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Semibold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/jquery-ui.min.js" afterPath="$PROJECT_DIR$/public/js/jquery-ui.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/icon_pdf.png" afterPath="$PROJECT_DIR$/src/images/icon_pdf.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-SemiboldIt.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-SemiboldIt.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/bootstrap.css" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/media.less" afterPath="$PROJECT_DIR$/src/less/media.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.otf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/.jshintrc" afterPath="$PROJECT_DIR$/src/js/tests/unit/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/background-variant.less" afterPath="$PROJECT_DIR$/src/less/mixins/background-variant.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/src/less/mixins/tab-focus.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/component.json" afterPath="$PROJECT_DIR$/src/slick-1.6.0/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/bootstrap.js" afterPath="$PROJECT_DIR$/public/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/panels.less" afterPath="$PROJECT_DIR$/src/less/mixins/panels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/infos-images/1.jpg" afterPath="$PROJECT_DIR$/public/images/infos-images/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/_logo.png" afterPath="$PROJECT_DIR$/src/images/_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Page_simple.html" afterPath="$PROJECT_DIR$/public/Page_simple.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins.less" afterPath="$PROJECT_DIR$/src/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/logo.png" afterPath="$PROJECT_DIR$/public/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Regular.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Regular.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_input_serch.png" afterPath="$PROJECT_DIR$/public/images/ombre_input_serch.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.ttf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/border-radius.less" afterPath="$PROJECT_DIR$/src/less/mixins/border-radius.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/labels.less" afterPath="$PROJECT_DIR$/src/less/labels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/stacked.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.otf.woff" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_serch_l.png" afterPath="$PROJECT_DIR$/public/images/ombre_serch_l.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-BoldIt.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-BoldIt.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/variables.less" afterPath="$PROJECT_DIR$/src/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/_logo.png" afterPath="$PROJECT_DIR$/public/images/_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/nos_champs_d_intervention_1.jpg" afterPath="$PROJECT_DIR$/public/images/nos_champs_d_intervention_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Semibold.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Semibold.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/fixed-width.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/fonts/slick.eot" afterPath="$PROJECT_DIR$/public/js/slick/fonts/slick.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/3.jpg" afterPath="$PROJECT_DIR$/public/images/slides/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/vendor-prefixes.less" afterPath="$PROJECT_DIR$/src/less/mixins/vendor-prefixes.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/scrollspy.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/scrollspy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/font-source-sans-pro.css" afterPath="$PROJECT_DIR$/public/css/font-source-sans-pro.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/custom_map.js" afterPath="$PROJECT_DIR$/public/js/custom_map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/pager.less" afterPath="$PROJECT_DIR$/src/less/pager.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/HELP-US-OUT.txt" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/HELP-US-OUT.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/nos_modalites_d_intervention.jpg" afterPath="$PROJECT_DIR$/public/images/nos_modalites_d_intervention.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/triangle.png" afterPath="$PROJECT_DIR$/public/images/triangle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/icon_pdf.png" afterPath="$PROJECT_DIR$/public/images/icon_pdf.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-It.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-It.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.woff" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-BlackIt.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-BlackIt.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/component-animations.less" afterPath="$PROJECT_DIR$/src/less/component-animations.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-ExtraLightIt.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-ExtraLightIt.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/navbar.less" afterPath="$PROJECT_DIR$/src/less/navbar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-BoldIt.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-BoldIt.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/center-block.less" afterPath="$PROJECT_DIR$/src/less/mixins/center-block.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Black.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Black.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/affix.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/affix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/index.html" afterPath="$PROJECT_DIR$/src/slick-1.6.0/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Light.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Light.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/alerts.less" afterPath="$PROJECT_DIR$/src/less/mixins/alerts.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-ExtraLightIt.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-ExtraLightIt.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-LightIt.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-LightIt.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/opacity.less" afterPath="$PROJECT_DIR$/src/less/mixins/opacity.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_input_serch.png" afterPath="$PROJECT_DIR$/src/images/ombre_input_serch.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/resize.less" afterPath="$PROJECT_DIR$/src/less/mixins/resize.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/bower.json" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/reset-text.less" afterPath="$PROJECT_DIR$/src/less/mixins/reset-text.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.ttf.woff2" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-LightIt.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-LightIt.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/popover.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/popover.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/breadcrumbs.less" afterPath="$PROJECT_DIR$/src/less/breadcrumbs.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/button-groups.less" afterPath="$PROJECT_DIR$/src/less/button-groups.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/buttons.less" afterPath="$PROJECT_DIR$/src/less/buttons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.ttf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-ExtraLight.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-ExtraLight.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/barre_newslettre.png" afterPath="$PROJECT_DIR$/public/images/barre_newslettre.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-ExtraLight.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-ExtraLight.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Qui_sommes_nous.html" afterPath="$PROJECT_DIR$/public/Qui_sommes_nous.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/barre_newslettre_l.png" afterPath="$PROJECT_DIR$/src/images/barre_newslettre_l.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.otf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/tooltip.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/tooltip.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_serch_r.png" afterPath="$PROJECT_DIR$/public/images/ombre_serch_r.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/LICENSE" afterPath="$PROJECT_DIR$/src/slick-1.6.0/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/popover.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/popover.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Regular.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Regular.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.ttf.woff2" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/code.less" afterPath="$PROJECT_DIR$/src/less/code.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tooltip.js" afterPath="$PROJECT_DIR$/src/js/tooltip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/config.rb" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/config.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.ttf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.js" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/nav-vertical-align.less" afterPath="$PROJECT_DIR$/src/less/mixins/nav-vertical-align.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/plus_accordion.png" afterPath="$PROJECT_DIR$/public/images/plus_accordion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/badges.less" afterPath="$PROJECT_DIR$/src/less/badges.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/button.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/button.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.css" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-ExtraLight.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-ExtraLight.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/icone_accordion.png" afterPath="$PROJECT_DIR$/public/images/icone_accordion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.ttf.woff2" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick.jquery.json" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick.jquery.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/carousel.less" afterPath="$PROJECT_DIR$/src/less/carousel.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/close.less" afterPath="$PROJECT_DIR$/src/less/close.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/code.less" afterPath="$PROJECT_DIR$/src/less/code.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/component-animations.less" afterPath="$PROJECT_DIR$/src/less/component-animations.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/custom.less" afterPath="$PROJECT_DIR$/src/less/custom.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/dropdowns.less" afterPath="$PROJECT_DIR$/src/less/dropdowns.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/forms.less" afterPath="$PROJECT_DIR$/src/less/forms.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/glyphicons.less" afterPath="$PROJECT_DIR$/src/less/glyphicons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/grid.less" afterPath="$PROJECT_DIR$/src/less/grid.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/input-groups.less" afterPath="$PROJECT_DIR$/src/less/input-groups.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/jumbotron.less" afterPath="$PROJECT_DIR$/src/less/jumbotron.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/labels.less" afterPath="$PROJECT_DIR$/src/less/labels.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/list-group.less" afterPath="$PROJECT_DIR$/src/less/list-group.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/media.less" afterPath="$PROJECT_DIR$/src/less/media.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins.less" afterPath="$PROJECT_DIR$/src/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/alerts.less" afterPath="$PROJECT_DIR$/src/less/mixins/alerts.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/background-variant.less" afterPath="$PROJECT_DIR$/src/less/mixins/background-variant.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/border-radius.less" afterPath="$PROJECT_DIR$/src/less/mixins/border-radius.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/buttons.less" afterPath="$PROJECT_DIR$/src/less/mixins/buttons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/center-block.less" afterPath="$PROJECT_DIR$/src/less/mixins/center-block.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/clearfix.less" afterPath="$PROJECT_DIR$/src/less/mixins/clearfix.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/forms.less" afterPath="$PROJECT_DIR$/src/less/mixins/forms.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/gradients.less" afterPath="$PROJECT_DIR$/src/less/mixins/gradients.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/grid-framework.less" afterPath="$PROJECT_DIR$/src/less/mixins/grid-framework.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/grid.less" afterPath="$PROJECT_DIR$/src/less/mixins/grid.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/hide-text.less" afterPath="$PROJECT_DIR$/src/less/mixins/hide-text.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/image.less" afterPath="$PROJECT_DIR$/src/less/mixins/image.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/labels.less" afterPath="$PROJECT_DIR$/src/less/mixins/labels.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/list-group.less" afterPath="$PROJECT_DIR$/src/less/mixins/list-group.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/nav-divider.less" afterPath="$PROJECT_DIR$/src/less/mixins/nav-divider.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/nav-vertical-align.less" afterPath="$PROJECT_DIR$/src/less/mixins/nav-vertical-align.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/opacity.less" afterPath="$PROJECT_DIR$/src/less/mixins/opacity.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/pagination.less" afterPath="$PROJECT_DIR$/src/less/mixins/pagination.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/panels.less" afterPath="$PROJECT_DIR$/src/less/mixins/panels.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/progress-bar.less" afterPath="$PROJECT_DIR$/src/less/mixins/progress-bar.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/reset-filter.less" afterPath="$PROJECT_DIR$/src/less/mixins/reset-filter.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/reset-text.less" afterPath="$PROJECT_DIR$/src/less/mixins/reset-text.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/resize.less" afterPath="$PROJECT_DIR$/src/less/mixins/resize.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/responsive-visibility.less" afterPath="$PROJECT_DIR$/src/less/mixins/responsive-visibility.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/size.less" afterPath="$PROJECT_DIR$/src/less/mixins/size.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/tab-focus.less" afterPath="$PROJECT_DIR$/src/less/mixins/tab-focus.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/table-row.less" afterPath="$PROJECT_DIR$/src/less/mixins/table-row.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/src/less/mixins/text-emphasis.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/src/less/mixins/text-overflow.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/vendor-prefixes.less" afterPath="$PROJECT_DIR$/src/less/mixins/vendor-prefixes.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/modals.less" afterPath="$PROJECT_DIR$/src/less/modals.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/navbar.less" afterPath="$PROJECT_DIR$/src/less/navbar.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/navs.less" afterPath="$PROJECT_DIR$/src/less/navs.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/normalize.less" afterPath="$PROJECT_DIR$/src/less/normalize.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/pager.less" afterPath="$PROJECT_DIR$/src/less/pager.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/pagination.less" afterPath="$PROJECT_DIR$/src/less/pagination.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/panels.less" afterPath="$PROJECT_DIR$/src/less/panels.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/popovers.less" afterPath="$PROJECT_DIR$/src/less/popovers.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/print.less" afterPath="$PROJECT_DIR$/src/less/print.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/progress-bars.less" afterPath="$PROJECT_DIR$/src/less/progress-bars.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/responsive-embed.less" afterPath="$PROJECT_DIR$/src/less/responsive-embed.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/src/less/responsive-utilities.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/scaffolding.less" afterPath="$PROJECT_DIR$/src/less/scaffolding.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/tables.less" afterPath="$PROJECT_DIR$/src/less/tables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/theme.less" afterPath="$PROJECT_DIR$/src/less/theme.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/thumbnails.less" afterPath="$PROJECT_DIR$/src/less/thumbnails.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/tooltip.less" afterPath="$PROJECT_DIR$/src/less/tooltip.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/type.less" afterPath="$PROJECT_DIR$/src/less/type.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/utilities.less" afterPath="$PROJECT_DIR$/src/less/utilities.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/variables.less" afterPath="$PROJECT_DIR$/src/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/wells.less" afterPath="$PROJECT_DIR$/src/less/wells.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/.gitignore" afterPath="$PROJECT_DIR$/src/slick-1.6.0/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/CONTRIBUTING.markdown" afterPath="$PROJECT_DIR$/src/slick-1.6.0/CONTRIBUTING.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/src/slick-1.6.0/ISSUE_TEMPLATE.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/LICENSE" afterPath="$PROJECT_DIR$/src/slick-1.6.0/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/Makefile" afterPath="$PROJECT_DIR$/src/slick-1.6.0/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/README.markdown" afterPath="$PROJECT_DIR$/src/slick-1.6.0/README.markdown" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/bower.json" afterPath="$PROJECT_DIR$/src/slick-1.6.0/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/component.json" afterPath="$PROJECT_DIR$/src/slick-1.6.0/component.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/index.html" afterPath="$PROJECT_DIR$/src/slick-1.6.0/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/package.json" afterPath="$PROJECT_DIR$/src/slick-1.6.0/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick.jquery.json" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick.jquery.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/config.rb" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/config.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.svg" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick-theme.css" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick-theme.less" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick-theme.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/tab.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/forms.less" afterPath="$PROJECT_DIR$/src/less/forms.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick-theme.scss" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick-theme.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.css" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.js" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.less" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.min.js" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.scss" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/LICENSE.txt" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/bower.json" afterPath="$PROJECT_DIR$/src/slick-1.6.0/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Light.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Light.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/css/font-awesome.css" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-ExtraLightIt.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-ExtraLightIt.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/marker.png" afterPath="$PROJECT_DIR$/src/images/marker.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/tooltip.less" afterPath="$PROJECT_DIR$/src/less/tooltip.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/progress-bar.less" afterPath="$PROJECT_DIR$/src/less/mixins/progress-bar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/top_calque_info_image.png" afterPath="$PROJECT_DIR$/public/images/top_calque_info_image.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_center.png" afterPath="$PROJECT_DIR$/src/images/ombre_center.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/infos-images/2.jpg" afterPath="$PROJECT_DIR$/public/images/infos-images/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/collapse.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/collapse.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.otf.woff" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/panels.less" afterPath="$PROJECT_DIR$/src/less/panels.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Black.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Black.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Semibold.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Semibold.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Light.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Light.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Bold.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Bold.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_animated.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-ExtraLightIt.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-ExtraLightIt.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/mixins.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Liste_actualites.html" afterPath="$PROJECT_DIR$/public/Liste_actualites.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/alerts.less" afterPath="$PROJECT_DIR$/src/less/alerts.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-ExtraLight.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-ExtraLight.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/scrollspy.js" afterPath="$PROJECT_DIR$/src/js/scrollspy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Black.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Black.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/text-overflow.less" afterPath="$PROJECT_DIR$/src/less/mixins/text-overflow.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/moin_accordion.png" afterPath="$PROJECT_DIR$/src/images/moin_accordion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_core.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-BoldIt.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-BoldIt.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/popover.js" afterPath="$PROJECT_DIR$/src/js/popover.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/button.js" afterPath="$PROJECT_DIR$/src/js/button.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-SemiboldIt.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-SemiboldIt.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/list-group.less" afterPath="$PROJECT_DIR$/src/less/mixins/list-group.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.otf.woff" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/button.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/button.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/page_404.html" afterPath="$PROJECT_DIR$/public/page_404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/print.less" afterPath="$PROJECT_DIR$/src/less/print.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/moin_accordion.png" afterPath="$PROJECT_DIR$/public/images/moin_accordion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Light.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Light.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-SemiboldIt.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-SemiboldIt.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/vendor/qunit.js" afterPath="$PROJECT_DIR$/src/js/tests/vendor/qunit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.ttf.woff2" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_stacked.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tab.js" afterPath="$PROJECT_DIR$/src/js/tab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/barre_newslettre_r.png" afterPath="$PROJECT_DIR$/public/images/barre_newslettre_r.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick-theme.css" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/CONTRIBUTING.markdown" afterPath="$PROJECT_DIR$/src/slick-1.6.0/CONTRIBUTING.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Black.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Black.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.otf.woff" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/responsive-embed.less" afterPath="$PROJECT_DIR$/src/less/responsive-embed.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/collapse.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/collapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.otf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/vendor/jquery.min.js" afterPath="$PROJECT_DIR$/src/js/tests/vendor/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/jumbotron.less" afterPath="$PROJECT_DIR$/src/less/jumbotron.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/buttons.less" afterPath="$PROJECT_DIR$/src/less/buttons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/carousel.js" afterPath="$PROJECT_DIR$/src/js/carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/wells.less" afterPath="$PROJECT_DIR$/src/less/wells.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Bold.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Bold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/alert.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/alert.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/normalize.less" afterPath="$PROJECT_DIR$/src/less/normalize.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-BoldIt.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-BoldIt.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Regular.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/hide-text.less" afterPath="$PROJECT_DIR$/src/less/mixins/hide-text.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.eot" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Light.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Light.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Light.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_center.png" afterPath="$PROJECT_DIR$/public/images/ombre_center.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/.jshintrc" afterPath="$PROJECT_DIR$/src/js/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/generator_css.php" afterPath="$PROJECT_DIR$/generator_css.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/4.jpg" afterPath="$PROJECT_DIR$/public/images/slides/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/tooltip.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/tooltip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/phantom.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/phantom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.eot" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/table-row.less" afterPath="$PROJECT_DIR$/src/less/mixins/table-row.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-It.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-It.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/text-emphasis.less" afterPath="$PROJECT_DIR$/src/less/mixins/text-emphasis.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/marker.png" afterPath="$PROJECT_DIR$/public/images/marker.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/slick.min.js" afterPath="$PROJECT_DIR$/public/js/slick/slick.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/affix-with-sticky-footer.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/affix-with-sticky-footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/disc_li.png" afterPath="$PROJECT_DIR$/public/images/disc_li.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Nos_metiers.html" afterPath="$PROJECT_DIR$/public/Nos_metiers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/scrollspy.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/scrollspy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.ttf" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/1.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-BoldIt.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-BoldIt.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.eot" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-ExtraLightIt.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-ExtraLightIt.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/.gitignore" afterPath="$PROJECT_DIR$/src/slick-1.6.0/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.ttf" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bank-sicar.iml" afterPath="$PROJECT_DIR$/.idea/bank-sicar.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/_3.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-LightIt.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-LightIt.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/input-groups.less" afterPath="$PROJECT_DIR$/src/less/input-groups.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/carousel.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/bg_titre_accordion.jpg" afterPath="$PROJECT_DIR$/public/images/bg_titre_accordion.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-BlackIt.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-BlackIt.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_larger.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/ajax-loader.gif" afterPath="$PROJECT_DIR$/public/js/slick/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/size.less" afterPath="$PROJECT_DIR$/src/less/mixins/size.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lessc/lessc.xml" afterPath="$PROJECT_DIR$/.idea/lessc/lessc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/disc_li.png" afterPath="$PROJECT_DIR$/src/images/disc_li.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/README.md" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/bower.json" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/source-sans-pro.css" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/source-sans-pro.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Constituez_votre_dossier.html" afterPath="$PROJECT_DIR$/public/Constituez_votre_dossier.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/modal.js" afterPath="$PROJECT_DIR$/src/js/modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/grid.less" afterPath="$PROJECT_DIR$/src/less/mixins/grid.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/README.md" afterPath="$PROJECT_DIR$/src/js/tests/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/ajax-loader.gif" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Regular.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Regular.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/fonts/slick.ttf" afterPath="$PROJECT_DIR$/public/js/slick/fonts/slick.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Bold.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-Bold.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/bootstrap.less" afterPath="$PROJECT_DIR$/src/less/bootstrap.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.scss" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Nos_modalites_d_intervention.html" afterPath="$PROJECT_DIR$/public/Nos_modalites_d_intervention.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/grid.less" afterPath="$PROJECT_DIR$/src/less/grid.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/slick/slick.css" afterPath="$PROJECT_DIR$/public/js/slick/slick.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/font-awesome.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_r.png" afterPath="$PROJECT_DIR$/public/images/ombre_r.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-It.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-It.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.less" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/slick.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.otf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Bold.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-It.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-It.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.otf" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-Regular.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/dropdown.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/dropdown.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Bold.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Bold.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Processus_de_decision.html" afterPath="$PROJECT_DIR$/public/Processus_de_decision.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/icone_accordion.png" afterPath="$PROJECT_DIR$/src/images/icone_accordion.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/top_calque_info_image.png" afterPath="$PROJECT_DIR$/src/images/top_calque_info_image.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-ExtraLight.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-ExtraLight.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/transition.js" afterPath="$PROJECT_DIR$/src/js/transition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/scaffolding.less" afterPath="$PROJECT_DIR$/src/less/scaffolding.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/vendor/qunit.css" afterPath="$PROJECT_DIR$/src/js/tests/vendor/qunit.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/responsive-visibility.less" afterPath="$PROJECT_DIR$/src/less/mixins/responsive-visibility.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/affix.js" afterPath="$PROJECT_DIR$/src/js/affix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.eot" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-BlackIt.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-BlackIt.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/ISSUE_TEMPLATE.md" afterPath="$PROJECT_DIR$/src/slick-1.6.0/ISSUE_TEMPLATE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/6.jpg" afterPath="$PROJECT_DIR$/public/images/slides/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Black.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-Black.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/list.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-ExtraLightIt.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-ExtraLightIt.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/custom.css" afterPath="$PROJECT_DIR$/public/css/custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-LightIt.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-LightIt.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Contact.html" afterPath="$PROJECT_DIR$/public/Contact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/modals.less" afterPath="$PROJECT_DIR$/src/less/modals.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/src/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Semibold.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-Semibold.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/clearfix.less" afterPath="$PROJECT_DIR$/src/less/mixins/clearfix.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/FAQ.html" afterPath="$PROJECT_DIR$/public/FAQ.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/variables.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.ttf.woff2" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Regular.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-Regular.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/alert.js" afterPath="$PROJECT_DIR$/src/js/alert.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/button-groups.less" afterPath="$PROJECT_DIR$/src/less/button-groups.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides-home/3.jpg" afterPath="$PROJECT_DIR$/public/images/slides-home/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_icons.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-ExtraLightIt.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-ExtraLightIt.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/custom.less" afterPath="$PROJECT_DIR$/src/less/custom.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.otf.woff" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Liens_utiles.html" afterPath="$PROJECT_DIR$/public/Liens_utiles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/forms.less" afterPath="$PROJECT_DIR$/src/less/mixins/forms.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Black.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Black.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.eot" afterPath="$PROJECT_DIR$/src/slick-1.6.0/slick/fonts/slick.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/carousel.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/carousel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/src/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_espace.png" afterPath="$PROJECT_DIR$/src/images/ombre_espace.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_mixins.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/5.jpg" afterPath="$PROJECT_DIR$/public/images/slides/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-It.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-It.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/package.json" afterPath="$PROJECT_DIR$/src/slick-1.6.0/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.eot" afterPath="$PROJECT_DIR$/public/fonts/SourceSansPro-ExtraLight.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/.csscomb.json" afterPath="$PROJECT_DIR$/src/less/.csscomb.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.eot" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-ExtraLight.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/nos_champs_d_intervention_2.jpg" afterPath="$PROJECT_DIR$/public/images/nos_champs_d_intervention_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/nos_valeurs.jpg" afterPath="$PROJECT_DIR$/public/images/nos_valeurs.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Plan_du_site.html" afterPath="$PROJECT_DIR$/public/Plan_du_site.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/grid-framework.less" afterPath="$PROJECT_DIR$/src/less/mixins/grid-framework.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/core.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.otf.woff" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Light.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/animated.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/type.less" afterPath="$PROJECT_DIR$/src/less/type.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/thumbnails.less" afterPath="$PROJECT_DIR$/src/less/thumbnails.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-SemiboldIt.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-SemiboldIt.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-BoldIt.ttf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/TTF/SourceSansPro-BoldIt.ttf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/qui_somme_nous.jpg" afterPath="$PROJECT_DIR$/public/images/qui_somme_nous.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/icons.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Bold.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-Bold.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-ExtraLight.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-ExtraLight.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/mixins/nav-divider.less" afterPath="$PROJECT_DIR$/src/less/mixins/nav-divider.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_screen-reader.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/npm.js" afterPath="$PROJECT_DIR$/public/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Light.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Light.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-BlackIt.otf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/OTF/SourceSansPro-BlackIt.otf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/larger.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Regular.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-Regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/2.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Nos_champs_d_intervention.html" afterPath="$PROJECT_DIR$/public/Nos_champs_d_intervention.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/index.html" afterPath="$PROJECT_DIR$/src/js/tests/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-It.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-It.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_path.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/visual/modal.html" afterPath="$PROJECT_DIR$/src/js/tests/visual/modal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/navs.less" afterPath="$PROJECT_DIR$/src/less/navs.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_list.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_serch_l.png" afterPath="$PROJECT_DIR$/src/images/ombre_serch_l.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/slides/2.jpg" afterPath="$PROJECT_DIR$/public/images/slides/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-BoldIt.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-BoldIt.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/Nos_valeurs.html" afterPath="$PROJECT_DIR$/public/Nos_valeurs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/public/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-BlackIt.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-BlackIt.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/responsive-utilities.less" afterPath="$PROJECT_DIR$/src/less/responsive-utilities.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_l.png" afterPath="$PROJECT_DIR$/src/images/ombre_l.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/screen-reader.less" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/less/screen-reader.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/slick-1.6.0/Makefile" afterPath="$PROJECT_DIR$/src/slick-1.6.0/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/dropdowns.less" afterPath="$PROJECT_DIR$/src/less/dropdowns.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/glyphicons.less" afterPath="$PROJECT_DIR$/src/less/glyphicons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/theme.less" afterPath="$PROJECT_DIR$/src/less/theme.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/less/pagination.less" afterPath="$PROJECT_DIR$/src/less/pagination.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-LightIt.eot" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/EOT/SourceSansPro-LightIt.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-BlackIt.otf.woff2" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF2/OTF/SourceSansPro-BlackIt.otf.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/image_285x250.jpg" afterPath="$PROJECT_DIR$/public/images/image_285x250.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/src/font-awesome-4.6.3/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-LightIt.ttf.woff" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/WOFF/TTF/SourceSansPro-LightIt.ttf.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/actualites/_2.jpg" afterPath="$PROJECT_DIR$/public/images/actualites/_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/logo.png" afterPath="$PROJECT_DIR$/src/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/tests/unit/modal.js" afterPath="$PROJECT_DIR$/src/js/tests/unit/modal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Light.otf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/OTF/SourceSansPro-Light.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/triangle.png" afterPath="$PROJECT_DIR$/src/images/triangle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/ombre_l.png" afterPath="$PROJECT_DIR$/public/images/ombre_l.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/collapse.js" afterPath="$PROJECT_DIR$/src/js/collapse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/images/ombre_r.png" afterPath="$PROJECT_DIR$/src/images/ombre_r.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/about.jpg" afterPath="$PROJECT_DIR$/public/images/about.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-SemiboldIt.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-SemiboldIt.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-ExtraLight.ttf" afterPath="$PROJECT_DIR$/src/source-sans-pro-2.020R-ro-1.075R-it/TTF/SourceSansPro-ExtraLight.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.eot" afterPath="$PROJECT_DIR$/src/fonts/SourceSansPro-Bold.eot" />
     </list>
     <ignored path="bank-sicar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -490,7 +490,6 @@
         <option value="$PROJECT_DIR$/public/Processus_de_decision.html" />
         <option value="$PROJECT_DIR$/public/Qui_sommes_nous.html" />
         <option value="$PROJECT_DIR$/public/Constituez_votre_dossier.html" />
-        <option value="$PROJECT_DIR$/public/Contact.html" />
         <option value="$PROJECT_DIR$/public/Details_actualites.html" />
         <option value="$PROJECT_DIR$/public/FAQ.html" />
         <option value="$PROJECT_DIR$/public/Liens_utiles.html" />
@@ -503,6 +502,7 @@
         <option value="$PROJECT_DIR$/public/Page_simple.html" />
         <option value="$PROJECT_DIR$/public/Plan_du_site.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/Contact.html" />
         <option value="$PROJECT_DIR$/src/less/custom.less" />
       </list>
     </option>
@@ -520,8 +520,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -548,8 +548,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -710,17 +710,18 @@
       <workItem from="1475917787911" duration="5602000" />
       <workItem from="1476089464753" duration="31387000" />
       <workItem from="1476135256023" duration="346000" />
+      <workItem from="1476175571302" duration="1389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186284000" />
+    <option name="totallyTimeSpent" value="187673000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24816984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24791667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5412262" sideWeight="0.50292826" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -940,13 +941,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/Contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="233" column="41" selection-start-line="233" selection-start-column="41" selection-end-line="233" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/FAQ.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -1052,10 +1046,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="300" column="129" selection-start-line="300" selection-start-column="129" selection-end-line="300" selection-end-column="129" />
+          <folding>
+            <element signature="n#div#3;n#form#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#2;n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/less/custom.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="2108" column="19" selection-start-line="2108" selection-start-column="19" selection-end-line="2108" selection-end-column="19" />
+        <state relative-caret-position="722">
+          <caret line="1881" column="20" selection-start-line="1881" selection-start-column="20" selection-end-line="1881" selection-end-column="20" />
           <folding>
             <element signature="e#4710#5179#0" expanded="false" />
             <element signature="e#5313#5627#0" expanded="false" />
@@ -1072,23 +1077,22 @@
             <element signature="e#29005#30215#0" expanded="false" />
             <element signature="e#30397#31424#0" expanded="false" />
             <element signature="e#31771#32803#0" expanded="false" />
-            <element signature="e#32814#34375#0" expanded="false" />
-            <element signature="e#34396#35240#0" expanded="false" />
-            <element signature="e#35255#35945#0" expanded="false" />
-            <element signature="e#36306#36690#0" expanded="false" />
-            <element signature="e#36961#37301#0" expanded="false" />
-            <element signature="e#37478#38565#0" expanded="false" />
-            <element signature="e#37494#37854#0" expanded="false" />
-            <element signature="e#38283#38425#0" expanded="false" />
-            <element signature="e#38446#38563#0" expanded="false" />
-            <element signature="e#38614#41847#0" expanded="false" />
-            <element signature="e#38757#38883#0" expanded="false" />
-            <element signature="e#39039#39355#0" expanded="false" />
-            <element signature="e#39684#41112#0" expanded="false" />
-            <element signature="e#39724#39948#0" expanded="false" />
-            <element signature="e#39960#40998#0" expanded="false" />
-            <element signature="e#40137#40895#0" expanded="false" />
-            <element signature="e#41209#41652#0" expanded="false" />
+            <element signature="e#34515#35359#0" expanded="false" />
+            <element signature="e#35374#36064#0" expanded="false" />
+            <element signature="e#36425#36809#0" expanded="false" />
+            <element signature="e#37080#37420#0" expanded="false" />
+            <element signature="e#37597#38684#0" expanded="false" />
+            <element signature="e#37613#37973#0" expanded="false" />
+            <element signature="e#38402#38544#0" expanded="false" />
+            <element signature="e#38565#38682#0" expanded="false" />
+            <element signature="e#38733#41966#0" expanded="false" />
+            <element signature="e#38876#39002#0" expanded="false" />
+            <element signature="e#39158#39474#0" expanded="false" />
+            <element signature="e#39803#41231#0" expanded="false" />
+            <element signature="e#39843#40067#0" expanded="false" />
+            <element signature="e#40079#41117#0" expanded="false" />
+            <element signature="e#40256#41014#0" expanded="false" />
+            <element signature="e#41328#41771#0" expanded="false" />
           </folding>
         </state>
       </provider>
