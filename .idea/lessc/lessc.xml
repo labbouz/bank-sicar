@@ -10,13 +10,13 @@
               <option name="cssDirectories">
                 <list>
                   <CssDirectory>
-                    <option name="path" value="Z:\bank-sicar\public\css" />
+                    <option name="path" value="Z:\bank-theme\public\css" />
                   </CssDirectory>
                 </list>
               </option>
               <option name="id" value="0" />
               <option name="includePattern" value="bootstrap.less;custom.less" />
-              <option name="lessDirPath" value="Z:\bank-sicar\src\less" />
+              <option name="lessDirPath" value="Z:\bank-theme\src\less" />
               <option name="name" value="CUSTOM" />
             </LessProfile>
           </value>
